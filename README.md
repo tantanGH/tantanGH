@@ -16,6 +16,10 @@ BMPL.X / BMPLEX.X ともに非圧縮のBMPファイルにのみ対応してい�
     from PIL import Image
     Image.open('hoge.jpg').resize((768,432)).convert('RGB').save('hoge.bmp')
 
+### GJ0.X
+
+BMPLEX.X で最大1024x1024x65536色の画像表示を行なった後、`screen` コマンドなどを実行し、一時的にグラフィック画面が非表示になると、`screen ,1` として再表示しようとしても画面が乱れます。
+GVRAMにデータが残っている状態であれば、この GJ0.X を実行することで XEiJ 拡張グラフィック画面を再表示させることができます。
 
 ### funcoff.r
 
