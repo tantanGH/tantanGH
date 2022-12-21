@@ -23,17 +23,17 @@ Python上で [Pillow](https://pillow.readthedocs.io/en/stable/) ライブラリ�
     from PIL import Image
     Image.open('hoge.jpg').resize((768,432)).convert('RGB').save('hoge.bmp')
 
-* [BMPL032.LZH](https://github.com/tantanGH/distribution/blob/main/BMPL032.LZH) BMPL 0.32 オリジナルアーカイブ
-* [BMPL033.LZH](https://github.com/tantanGH/distribution/blob/main/BMPL033.LZH) BMPL 0.33 オリジナルアーカイブ (0.32に対するアップデート差分)
-* [BMEX0331.ZIP](https://github.com/tantanGH/distribution/blob/main/BMEX0331.ZIP) BMPLEX.X 0.33.1 実行ファイルおよびソース
-* [BMP768SP.ZIP](https://github.com/tantanGH/distribution/blob/main/BMP768SP.ZIP) 動作確認用横幅768pxのBMPファイル集 ([NovelAI](https://novelai.net/)で生成)
+* [BMPL032.LZH](https://github.com/tantanGH/distribution/raw/main/BMPL032.LZH) BMPL 0.32 オリジナルアーカイブ
+* [BMPL033.LZH](https://github.com/tantanGH/distribution/raw/main/BMPL033.LZH) BMPL 0.33 オリジナルアーカイブ (0.32に対するアップデート差分)
+* [BMEX0331.ZIP](https://github.com/tantanGH/distribution/raw/main/BMEX0331.ZIP) BMPLEX.X 0.33.1 実行ファイルおよびソース
+* [BMP768SP.ZIP](https://github.com/tantanGH/distribution/raw/main/BMP768SP.ZIP) 動作確認用横幅768pxのBMPファイル集 ([NovelAI](https://novelai.net/)で生成)
 
 ### GJ0.X
 
 BMPLEX.X で最大1024x1024x65536色の画像表示を行なった後、`screen` コマンドなどを実行し、一時的にグラフィック画面が非表示になると、`screen ,1` として再表示しようとしても画面が乱れます。
 GVRAMにデータが残っている状態であれば、この GJ0.X を実行することで XEiJ 拡張グラフィック画面を再表示させることができます。なお、GJ0という名前はXEiJが内部的に使っている画面モードの定義からきています。
 
-* [GJ0_001.ZIP](https://github.com/tantanGH/distribution/blob/main/GJ0_001.ZIP) GJ0.X 0.01 実行ファイル
+* [GJ0_001.ZIP](https://github.com/tantanGH/distribution/raw/main/GJ0_001.ZIP) GJ0.X 0.01 実行ファイル
 
 実行は以下だけです。特にオプションなどもありません。
 
@@ -44,7 +44,7 @@ GVRAMにデータが残っている状態であれば、この GJ0.X を実行�
 Human68kのコンソール画面の下に表示されるファンクションキー表示行を非表示にしても、アプリケーションによっては終了時に強制的に再表示されてしまう場合があります。
 これを防ぐために、常駐してファンクションキー表示行を強制的に非表示にするプログラムです。昔自分が作ったものをリファインしました。
 
-* [FNCOFF20.ZIP](https://github.com/tantanGH/distribution/blob/main/FNCOFF20.ZIP) funcoff.r 2.00 実行ファイル
+* [FNCOFF20.ZIP](https://github.com/tantanGH/distribution/raw/main/FNCOFF20.ZIP) funcoff.r 2.00 実行ファイル
 
 常駐するには、オプションなしで実行してください。
 
