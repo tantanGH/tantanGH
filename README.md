@@ -5,7 +5,7 @@
 ### BMPLEX.X
 
 Arimac氏作の BMPL.X 0.33 を [XEiJ](https://stdkmd.net/xeij/) の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応させ、
-最大1024x1024x65536色表示可能の機能追加を行なったものです。
+最大1024x1024x65536色表示可能とする機能追加を行なったものです。
 XEiJ上で拡張グラフィックを有効にした場合にのみ効果がありますので、実機([X68000 Z](https://www.zuiki.co.jp/products/x68000z/)含む)や他のX68エミュレータでは正常動作しません。
 また、ツクモ電機製のグラフィックアクセラレータボードTS-6BGAにも対応していません。
 
