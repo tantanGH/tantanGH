@@ -1,6 +1,6 @@
 # tantan's room
 
-## X680x0 free softwares
+## X680x0 free software
 
 ### BMPLEX.X
 
