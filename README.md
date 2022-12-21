@@ -24,7 +24,7 @@ Python上で [Pillow](https://pillow.readthedocs.io/en/stable/) ライブラリ�
     Image.open('hoge.jpg').resize((768,432)).convert('RGB').save('hoge.bmp')
 
 * [BMPL032.LZH](https://github.com/tantanGH/distribution/blob/main/BMPL032.LZH) BMPL 0.32 オリジナルアーカイブ
-* [BMPL033.LZH](https://github.com/tantanGH/distribution/blob/main/BMPL033.LZH) BMPL 0.33 アップデート差分
+* [BMPL033.LZH](https://github.com/tantanGH/distribution/blob/main/BMPL033.LZH) BMPL 0.33 オリジナルアーカイブ (0.32に対するアップデート差分)
 * [BMEX0331.ZIP](https://github.com/tantanGH/distribution/blob/main/BMEX0331.ZIP) BMPLEX.X 0.33.1 実行ファイルおよびソース
 
 ### GJ0.X
