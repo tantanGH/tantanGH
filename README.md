@@ -44,7 +44,7 @@ GVRAMにデータが残っている状態であれば、この GJ0.X を実行�
 Human68kのコンソール画面の下に表示されるファンクションキー表示行を非表示にしても、アプリケーションによっては終了時に強制的に再表示されてしまう場合があります。
 これを防ぐために、常駐してファンクションキー表示行を強制的に非表示にするプログラムです。昔自分が作ったものをリファインしました。
 
-* [FNCOFF20.ZIP](https://github.com/tantanGH/distribution/raw/main/FNCOFF20.ZIP) funcoff.r 2.00 実行ファイル
+* [FNCOF200.ZIP](https://github.com/tantanGH/distribution/raw/main/FNCOF200.ZIP) funcoff.r 2.00 実行ファイル
 
 常駐するには、オプションなしで実行してください。
 
