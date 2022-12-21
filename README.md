@@ -17,23 +17,23 @@ BMPL.X / BMPLEX.X ともに非圧縮のBMPファイルにのみ対応してい�
     from PIL import Image
     Image.open('hoge.jpg').resize((768,432)).convert('RGB').save('hoge.bmp')
 
-[BMPL032.LZH](https://github.com/tantanGH/distribution/blob/main/BMPL032.LZH) BMPL 0.32 オリジナルアーカイブ
-[BMPL033.LZH](https://github.com/tantanGH/distribution/blob/main/BMPL033.LZH) BMPL 0.33 アップデート差分
-[BMEX0331.ZIP](https://github.com/tantanGH/distribution/blob/main/BMEX0331.ZIP) BMPLEX.X 0.33.1 実行ファイルおよびソース
+* [BMPL032.LZH](https://github.com/tantanGH/distribution/blob/main/BMPL032.LZH) BMPL 0.32 オリジナルアーカイブ
+* [BMPL033.LZH](https://github.com/tantanGH/distribution/blob/main/BMPL033.LZH) BMPL 0.33 アップデート差分
+* [BMEX0331.ZIP](https://github.com/tantanGH/distribution/blob/main/BMEX0331.ZIP) BMPLEX.X 0.33.1 実行ファイルおよびソース
 
 ### GJ0.X
 
 BMPLEX.X で最大1024x1024x65536色の画像表示を行なった後、`screen` コマンドなどを実行し、一時的にグラフィック画面が非表示になると、`screen ,1` として再表示しようとしても画面が乱れます。
 GVRAMにデータが残っている状態であれば、この GJ0.X を実行することで XEiJ 拡張グラフィック画面を再表示させることができます。
 
-[GJ0_001.ZIP](https://github.com/tantanGH/distribution/blob/main/GJ0_001.ZIP) GJ0.X 0.01 実行ファイル
+* [GJ0_001.ZIP](https://github.com/tantanGH/distribution/blob/main/GJ0_001.ZIP) GJ0.X 0.01 実行ファイル
 
 ### funcoff.r
 
 Human68kのコンソール画面の下に表示されるファンクションキー表示行を非表示にしても、アプリケーションによっては終了時に強制的に再表示されてしまう場合があります。
 これを防ぐために、常駐してファンクションキー表示行を強制的に非表示にするプログラムです。昔自分が作ったものをリファインしました。
 
-[FNCOFF20.ZIP](https://github.com/tantanGH/distribution/blob/main/FNCOFF20.ZIP) funcoff.r 2.00 実行ファイル
+* [FNCOFF20.ZIP](https://github.com/tantanGH/distribution/blob/main/FNCOFF20.ZIP) funcoff.r 2.00 実行ファイル
 
 ## CONTACT
 
