@@ -26,6 +26,7 @@ Python上で [Pillow](https://pillow.readthedocs.io/en/stable/) ライブラリ�
 * [BMPL032.LZH](https://github.com/tantanGH/distribution/blob/main/BMPL032.LZH) BMPL 0.32 オリジナルアーカイブ
 * [BMPL033.LZH](https://github.com/tantanGH/distribution/blob/main/BMPL033.LZH) BMPL 0.33 オリジナルアーカイブ (0.32に対するアップデート差分)
 * [BMEX0331.ZIP](https://github.com/tantanGH/distribution/blob/main/BMEX0331.ZIP) BMPLEX.X 0.33.1 実行ファイルおよびソース
+* [BMP768SP.ZIP](https://github.com/tantanGH/distribution/blob/main/BMP768SP.ZIP) 動作確認用横幅768pxのBMPファイル集 ([NovelAI](https://novelai.net/)で生成)
 
 ### GJ0.X
 
