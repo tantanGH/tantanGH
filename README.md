@@ -28,11 +28,11 @@ Python上で [Pillow](https://pillow.readthedocs.io/en/stable/) ライブラリ�
     from PIL import Image
     Image.open('hoge.jpg').resize((768,432)).convert('RGB').save('hoge.bmp')
 
-おまけとして、ファイラーSTFでの拡張子設定サンプルです。単にリターンを押すと100%輝度全画面表示。SHIFT/CTRLを押しながらリターンを押すと背景差し替えのみ(それぞれ輝度75%/85%)。他のファイラでも似たような設定ができると思います。ご参考。
+おまけとして、ファイラーSTFでの拡張子設定サンプルです。単にリターンを押すと100%輝度全画面表示。SHIFT/CTRLを押しながらリターンを押すと背景差し替えのみ(それぞれ輝度85%/75%)。他のファイラでも似たような設定ができると思います。ご参考。
 
     .bmp    ---------sfp-   bmplex -e -n -k -r %p%
-            -t--------fp-   bmplex -e -n -v75 %p%
-            -c--------fp-   bmplex -e -n -v85 %p%
+            -t--------fp-   bmplex -e -n -v85 %p%
+            -c--------fp-   bmplex -e -n -v75 %p%
 
 ---
 
