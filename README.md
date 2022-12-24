@@ -41,11 +41,15 @@ Python上で [Pillow](https://pillow.readthedocs.io/en/stable/) ライブラリ�
 BMPLEX.X で最大1024x1024x65536色の画像表示を行なった後、`screen` コマンドなどを実行し、一時的にグラフィック画面が非表示になると、`screen ,1` として再表示しようとしても画面が乱れます。
 GVRAMにデータが残っている状態であれば、この GJ0.X を実行することで XEiJ 拡張グラフィック画面を再表示させることができます。なお、GJ0という名前はXEiJが内部的に使っている画面モードの定義からきています。
 
-* [GJ0_002.ZIP](https://github.com/tantanGH/distribution/raw/main/GJ0_002.ZIP) GJ0.X 0.02 実行ファイル
+* [GJ0_003.ZIP](https://github.com/tantanGH/distribution/raw/main/GJ0_003.ZIP) GJ0.X ver0.03 実行ファイル
 
-実行は以下だけです。特にオプションなどもありません。
+以下のように何も引数をつけずに実行すると、1024x1024x65536モードのグラフィック画面を再表示できます。
 
     GJ0.X
+
+以下のように何か引数をつけて実行すると、1024x1024x65536モードのグラフィック画面のVRAMをクリアします。
+
+    GJ0.X 0
 
 拡張グラフィックを有効にしたXEiJ上以外では意味がなく、正常動作しませんのでご注意ください。
 
