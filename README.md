@@ -14,7 +14,14 @@ X680x0用のPNG画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡�
 - [zlib 1.2.23](https://github.com/madler/zlib)
 
 リソース消費の大きいlibpngは使わず、シンプルに24bitRGBまたは32bitRGBAのPNG表示にのみの対応としています。
-コンパイルには M1 Mac上で[xdev68k](https://github.com/yosshin4004/xdev68k) を利用させて頂きました。
+
+また、コンパイル・アセンブル・リンクには M1 Mac上で以下のクロス開発環境を利用させて頂きました。
+
+- [xdev68k](https://github.com/yosshin4004/xdev68k)
+
+参考文献
+
+ - InsideX68000 (ソフトバンク, 1992年, 桑野雅彦)
 
 この場を借りてお礼申し上げます。
 
