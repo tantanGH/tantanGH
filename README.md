@@ -20,6 +20,8 @@ X680x0用のPNG画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡�
 
 (配布用アーカイブ準備中)
 
+---
+
 ### BMPLEX.X
 
 Arimac氏作の BMPL.X 0.33 を [XEiJ](https://stdkmd.net/xeij/) の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応させ、
