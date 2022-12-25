@@ -2,10 +2,28 @@
 
 ## X680x0 free software
 
+### PNGEX.X
+
+X680x0用のPNG画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応しており、最大1024x1024x32768色の表示が可能です。それ以上のサイズはクリップされます。
+
+実機([X68000 Z](https://www.zuiki.co.jp/products/x68000z/)含む)や他のX68エミュレータでは最大512x512にクリップされます。
+
+
+以下のライブラリを使用させて頂きました。
+
+- [zlib 1.2.23](https://github.com/madler/zlib)
+
+リソース消費の大きいlibpngは使わず、シンプルに24bitRGBまたは32bitRGBAのPNG表示にのみの対応としています。
+コンパイルには M1 Mac上で[xdev68k](https://github.com/yosshin4004/xdev68k) を利用させて頂きました。
+
+この場を借りてお礼申し上げます。
+
+(配布用アーカイブ準備中)
+
 ### BMPLEX.X
 
 Arimac氏作の BMPL.X 0.33 を [XEiJ](https://stdkmd.net/xeij/) の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応させ、
-最大1024x1024x65536色表示可能とする機能追加を行なったものです。
+最大1024x1024x65536色(32768色)表示可能とする機能追加を行なったものです。
 XEiJ上で拡張グラフィックを有効にした場合にのみ効果がありますので、実機([X68000 Z](https://www.zuiki.co.jp/products/x68000z/)含む)や他のX68エミュレータでは正常動作しません。
 また、ツクモ電機製のグラフィックアクセラレータボードTS-6BGAにも対応していません。
 
