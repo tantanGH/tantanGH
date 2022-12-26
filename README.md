@@ -6,6 +6,8 @@
 
 X680x0用のPNG画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応しており、最大1024x1024x32768色の表示が可能です。
 
+* [PNGEX011.ZIP](https://github.com/tantanGH/pngex/raw/main/PNGEX011.ZIP) PNGEX 0.1.1 実行ファイルアーカイブ
+
 詳細は[pngex](https://github.com/tantanGH/pngex)へ。
 
 ---
