@@ -104,6 +104,13 @@ Human68kのコンソール画面の下部に表示されるファンクション
 
 ---
 
+### wav2adpcm
+
+これはX680x0用ソフトウェアではなく Python で書かれたアプリケーションです。WAVE形式のPCMデータをX680x0用ADPCMデータに変換できるコンバータです。ローパスフィルターとレベル調整にも対応しています。
+詳細は[wav2adpcm](https://github.com/tantanGH/wav2adpcm/)へ。
+
+---
+
 ### xdev68k install guide for M1 Mac
 
 X680x0対応クロス開発環境である [xdev68k](https://github.com/yosshin4004/xdev68k) をM1 Macに導入した際の覚書です。
