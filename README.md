@@ -112,6 +112,13 @@ Human68kのコンソール画面の下部に表示されるファンクション
 
 ---
 
+### X680x0 / Windows ユーザのための Python 活用ガイド
+
+上記の Python アプリケーションの詳細な導入方法を、Windows への Python 基本環境のセットアップから解説してあります。
+詳細は[こちら](https://github.com/tantanGH/distribution/blob/main/windows_python_for_x68k.md)へ。
+
+---
+
 ### xdev68k install guide for M1 Mac
 
 X680x0対応クロス開発環境である [xdev68k](https://github.com/yosshin4004/xdev68k) をM1 Macに導入した際の覚書です。
