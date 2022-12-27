@@ -119,7 +119,7 @@ Human68kのコンソール画面の下部に表示されるファンクション
 
 ---
 
-### xdev68k install guide for M1 Mac
+### xdev68k インストールガイド for M1 Mac
 
 X680x0対応クロス開発環境である [xdev68k](https://github.com/yosshin4004/xdev68k) をM1 Macに導入した際の覚書です。
 詳細は[ここ](https://github.com/tantanGH/distribution/blob/main/INSTALL_xdev68k_M1Mac.md)。
