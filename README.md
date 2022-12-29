@@ -5,7 +5,7 @@
 ### 目次
 
 X680x0/Human68K用ソフトウェア
-- [PNGEX.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応)
+- [PNGEX.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
 - [BMPEX.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
 - GIFEX.X ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [GJ0.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#gj0x) ... XEiJ拡張グラフィック簡易操作ツール
