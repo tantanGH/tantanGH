@@ -4,13 +4,13 @@
 
 ### 目次
 
-X680x0/Human68Kで動作するソフトウェア
+X680x0/Human68K用ソフトウェア
 - [PNGEX.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#pngexx)
 - [BMPEX.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#bmpexx)
 - [GJ0.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#gj0x)
 - [funcoff.r](https://https://github.com/tantanGH/tantanGH/blob/main/README.md#funcofr)
 
-Pythonで書かれたソフトウェア
+Python用ソフトウェア
 - [pymag](https://github.com/tantanGH/tantanGH/blob/main/README.md#pymag)
 - [dim2xdf](https://github.com/tantanGH/tantanGH/blob/main/README.md#dim2xdf)
 - [wav2adpcm](https://github.com/tantanGH/tantanGH/blob/main/README.md#wav2adpcm)
