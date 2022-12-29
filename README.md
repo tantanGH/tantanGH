@@ -6,8 +6,8 @@
 
 X680x0/Human68K用ソフトウェア
 - [PNGEX.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
-- [BMPEX.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
 - GIFEX.X ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
+- [BMPEX.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
 - [GJ0.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#gj0x) ... XEiJ拡張グラフィック簡易操作ツール
 - [funcoff.r](https://https://github.com/tantanGH/tantanGH/blob/main/README.md#funcofr) ... ファンクションキー表示強制抑制
 
@@ -25,10 +25,19 @@ Python用ソフトウェア
 
 ### PNGEX.X
 
-X680x0用のPNG画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応しており、最大1024x1024x32768色の表示が可能です。
+X680x0用のPNG画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応しており、最大1024x1024x32768色の表示が可能です。ハイメモリをバッファとして利用可能です。
 
 詳細は[pngex](https://github.com/tantanGH/pngex)へ。
 
+---
+
+### GIFEX.X
+
+X680x0用のGIF画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応しており、最大1024x1024x32768色の表示が可能です。ハイメモリをバッファとして利用可能です。
+
+アニメーションにも対応していますが、表示タイミングは厳密ではありません。
+
+(配布時期未定)
 ---
 
 ### BMPLEX.X
