@@ -110,6 +110,13 @@ Human68kのコンソール画面の下部に表示されるファンクション
 
 ---
 
+### mov2gif
+
+これはX680x0用ソフトウェアではなく Python で書かれたアプリケーションです。MP4/AVI形式の動画データをアニメーションGIFデータに変換できるコンバータです。
+詳細は[mov2gif](https://github.com/tantanGH/mov2gif/)へ。
+
+---
+
 ### X680x0 / Windows ユーザのための Python 活用ガイド
 
 上記の Python アプリケーションの詳細な導入方法を、Windows への Python 基本環境のセットアップから解説してあります。
