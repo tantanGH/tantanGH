@@ -13,8 +13,8 @@ X680x0/Human68K用ソフトウェア
 
 Python用ソフトウェア
 - [pymag](https://github.com/tantanGH/tantanGH/blob/main/README.md#pymag) ... PNG/JPG/BMP to MAG コンバータ in Python
-- [dim2xdf](https://github.com/tantanGH/tantanGH/blob/main/README.md#dim2xdf) ... FDファイルイメージコンバータ in Python
-- [wav2adpcm](https://github.com/tantanGH/tantanGH/blob/main/README.md#wav2adpcm) ... WAV to X680x0 ADPCM コンバータ in Python
+- [dim2xdf](https://github.com/tantanGH/tantanGH/blob/main/README.md#dim2xdf) ... X68k FDファイルイメージコンバータ in Python
+- [wav2adpcm](https://github.com/tantanGH/tantanGH/blob/main/README.md#wav2adpcm) ... WAV to X68k ADPCM コンバータ in Python
 - [mov2gif](https://github.com/tantanGH/tantanGH/blob/main/README.md#mov2gif) ... MP4/AVI to アニメーションGIF コンバータ in Python
 
 各種ドキュメント
