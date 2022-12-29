@@ -20,6 +20,8 @@ Python用ソフトウェア
 - [X680x0/WindowsユーザのためのPython活用ガイド](https://github.com/tantanGH#x680x0--windows-%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE-python-%E6%B4%BB%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89)
 - [xdev68k インストールガイド for M1 Mac](https://github.com/tantanGH#xdev68k-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%82%AC%E3%82%A4%E3%83%89-for-m1-mac)
 
+---
+
 ### PNGEX.X
 
 X680x0用のPNG画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応しており、最大1024x1024x32768色の表示が可能です。
