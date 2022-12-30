@@ -38,6 +38,8 @@ X680x0用のGIF画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡�
 
 アニメーションにも対応していますが、表示タイミングは厳密ではありません。
 
+![](https://github.com/tantanGH/distribution/raw/main/images/gif_demo1.gif)
+
 配布時期未定
 
 ---
