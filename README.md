@@ -28,8 +28,6 @@ Python用ソフトウェア
 
 X680x0用のPNG画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応しており、最大1024x1024x32768色の表示が可能です。ハイメモリをバッファとして利用可能です。
 
-![](https://github.com/tantanGH/distribution/raw/main/images/png_demo1.png)
-
 詳細は[pngex](https://github.com/tantanGH/pngex)へ。
 
 ---
@@ -52,6 +50,8 @@ Arimac氏作の BMPL.X 0.33 を [XEiJ](https://stdkmd.net/xeij/) の[拡張グ�
 最大1024x1024x65536色(32768色)表示可能とする機能追加を行なったものです。
 XEiJ上で拡張グラフィックを有効にした場合にのみ効果がありますので、実機([X68000 Z](https://www.zuiki.co.jp/products/x68000z/)含む)や他のX68エミュレータでは正常動作しません。
 また、ツクモ電機製のグラフィックアクセラレータボードTS-6BGAにも対応していません。
+
+![](https://github.com/tantanGH/distribution/raw/main/images/bmp_demo1.png)
 
 * [BMPL032.LZH](https://github.com/tantanGH/distribution/raw/main/BMPL032.LZH) BMPL 0.32 オリジナルアーカイブ
 * [BMPL033.LZH](https://github.com/tantanGH/distribution/raw/main/BMPL033.LZH) BMPL 0.33 オリジナルアーカイブ (0.32に対するアップデート差分)
