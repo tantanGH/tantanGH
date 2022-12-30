@@ -1,10 +1,8 @@
 # tantan's room
 
-## X680x0 free software
+## 目次
 
-### 目次
-
-X680x0/Human68K用ソフトウェア
+X680x0/Human68k用ソフトウェア
 - [PNGEX.X](#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
 - [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [BMPEX.X](#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
@@ -23,6 +21,10 @@ Python用ソフトウェア
 - X680x0 アセンブラで常駐プログラムを書く基本的な方法 (公開時期未定)
 - [X680x0/WindowsユーザのためのPython活用ガイド](https://github.com/tantanGH/distribution/blob/main/windows_python_for_x68k.md)
 - [xdev68k インストールガイド for M1 Mac](https://github.com/tantanGH/distribution/blob/main/INSTALL_xdev68k_M1Mac.md)
+
+---
+
+## X680x0 / Human68k 用ソフトウェア
 
 ---
 
@@ -126,6 +128,10 @@ Human68kのコンソール画面の下部に表示されるファンクション
     funcoff.r -r
 
 なお、これはXEiJ専用プログラムではありません。
+
+---
+
+## Python 用ソフトウェア
 
 ---
 
