@@ -17,7 +17,8 @@ Python用ソフトウェア
 - [wav2adpcm](https://github.com/tantanGH/tantanGH/blob/main/README.md#wav2adpcm) ... WAV to X68k ADPCM コンバータ in Python
 - [mov2gif](https://github.com/tantanGH/tantanGH/blob/main/README.md#mov2gif) ... MP4/AVI to アニメーションGIF コンバータ in Python
 
-各種ドキュメント
+各種覚書
+- [X680x0 C言語でハイメモリを使う方法](https://github.com/tantanGH/distribution/blob/main/use_HIMEM_in_C.md)
 - [X680x0/WindowsユーザのためのPython活用ガイド](https://github.com/tantanGH#x680x0--windows-%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE-python-%E6%B4%BB%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89)
 - [xdev68k インストールガイド for M1 Mac](https://github.com/tantanGH#xdev68k-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%82%AC%E3%82%A4%E3%83%89-for-m1-mac)
 
