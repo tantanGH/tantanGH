@@ -6,16 +6,16 @@
 
 X680x0/Human68K用ソフトウェア
 - [PNGEX.X](#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
-- [GIFEX.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
-- [BMPEX.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
-- [GJ0.X](https://github.com/tantanGH/tantanGH/blob/main/README.md#gj0x) ... XEiJ拡張グラフィック簡易操作ツール
-- [funcoff.r](https://https://github.com/tantanGH/tantanGH/blob/main/README.md#funcofr) ... ファンクションキー表示強制抑制
+- [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
+- [BMPEX.X](#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
+- [GJ0.X](#gj0x) ... XEiJ拡張グラフィック簡易操作ツール
+- [funcoff.r](#funcofr) ... ファンクションキー表示強制抑制
 
 Python用ソフトウェア
-- [pymag](https://github.com/tantanGH/tantanGH/blob/main/README.md#pymag) ... PNG/JPG/BMP to MAG コンバータ in Python
-- [dim2xdf](https://github.com/tantanGH/tantanGH/blob/main/README.md#dim2xdf) ... X68k FDファイルイメージコンバータ in Python
-- [wav2adpcm](https://github.com/tantanGH/tantanGH/blob/main/README.md#wav2adpcm) ... WAV to X68k ADPCM コンバータ in Python
-- [mov2gif](https://github.com/tantanGH/tantanGH/blob/main/README.md#mov2gif) ... MP4/AVI to アニメーションGIF コンバータ in Python
+- [pymag](#pymag) ... PNG/JPG/BMP to MAG コンバータ in Python
+- [dim2xdf](#dim2xdf) ... X68k FDファイルイメージコンバータ in Python
+- [wav2adpcm](#wav2adpcm) ... WAV to X68k ADPCM コンバータ in Python
+- [mov2gif](#mov2gif) ... MP4/AVI to アニメーションGIF コンバータ in Python
 
 各種覚書
 - [X680x0 C言語でハイメモリを使う方法](https://github.com/tantanGH/distribution/blob/main/use_HIMEM_in_C.md)
