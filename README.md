@@ -19,8 +19,8 @@ Python用ソフトウェア
 
 各種覚書
 - [X680x0 C言語でハイメモリを使う方法](https://github.com/tantanGH/distribution/blob/main/use_HIMEM_in_C.md)
-- [X680x0/WindowsユーザのためのPython活用ガイド](https://github.com/tantanGH#x680x0--windows-%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE-python-%E6%B4%BB%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89)
-- [xdev68k インストールガイド for M1 Mac](https://github.com/tantanGH#xdev68k-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%82%AC%E3%82%A4%E3%83%89-for-m1-mac)
+- [X680x0/WindowsユーザのためのPython活用ガイド](https://github.com/tantanGH/distribution/blob/main/windows_python_for_x68k.md)
+- [xdev68k インストールガイド for M1 Mac](https://github.com/tantanGH/distribution/blob/main/INSTALL_xdev68k_M1Mac.md)
 
 ---
 
@@ -152,20 +152,6 @@ Human68kのコンソール画面の下部に表示されるファンクション
 
 これはX680x0用ソフトウェアではなく Python で書かれたアプリケーションです。MP4/AVI形式の動画データをアニメーションGIFデータに変換できるコンバータです。
 詳細は[mov2gif](https://github.com/tantanGH/mov2gif/)へ。
-
----
-
-### X680x0 / Windows ユーザのための Python 活用ガイド
-
-上記の Python アプリケーションの詳細な導入方法を、Windows への Python 基本環境のセットアップから解説してあります。
-詳細は[こちら](https://github.com/tantanGH/distribution/blob/main/windows_python_for_x68k.md)へ。
-
----
-
-### xdev68k インストールガイド for M1 Mac
-
-X680x0対応クロス開発環境である [xdev68k](https://github.com/yosshin4004/xdev68k) をM1 Macに導入した際の覚書です。
-詳細は[ここ](https://github.com/tantanGH/distribution/blob/main/INSTALL_xdev68k_M1Mac.md)。
 
 ---
 
