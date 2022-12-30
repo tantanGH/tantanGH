@@ -19,6 +19,8 @@ Python用ソフトウェア
 
 各種覚書
 - [X680x0 C言語でハイメモリを使う方法](https://github.com/tantanGH/distribution/blob/main/use_HIMEM_in_C.md)
+- X680x0 C言語で 384x256x(256|65536),768x512x(256|65536) などの正方形ピクセルモードを使う方法(XEiJ拡張グラフィックス対応) (公開時期未定)
+- X680x0 アセンブラで常駐プログラムを書く基本的な方法 (公開時期未定)
 - [X680x0/WindowsユーザのためのPython活用ガイド](https://github.com/tantanGH/distribution/blob/main/windows_python_for_x68k.md)
 - [xdev68k インストールガイド for M1 Mac](https://github.com/tantanGH/distribution/blob/main/INSTALL_xdev68k_M1Mac.md)
 
