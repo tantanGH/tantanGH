@@ -45,7 +45,7 @@ X680x0用のGIF画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡�
 
 ![](https://github.com/tantanGH/distribution/raw/main/images/gif_demo1.gif)
 
-配布時期未定
+* [GIFEX040.ZIP](https://github.com/tantanGH/distribution/raw/main/GIFEX040.ZIP) GIFEX.X 0.4.0 実行ファイル
 
 ---
 
