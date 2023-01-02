@@ -14,6 +14,7 @@ Python用ソフトウェア
 - [dim2xdf](#dim2xdf) ... X68k FDファイルイメージコンバータ in Python
 - [wav2adpcm](#wav2adpcm) ... WAV to X68k ADPCM コンバータ in Python
 - [mov2gif](#mov2gif) ... MP4/AVI to アニメーションGIF コンバータ in Python
+- [png2sp](#png2sp) ... 透過PNG to X68k スプライトデータ コンバータ in Python
 
 各種覚書
 - [X680x0 C言語でハイメモリを使う方法](https://github.com/tantanGH/distribution/blob/main/use_HIMEM_in_C.md)
@@ -184,6 +185,14 @@ pip導入可。
 これはX680x0用ソフトウェアではなく Python で書かれたアプリケーションです。MP4/AVI形式の動画データをアニメーションGIFデータに変換できるコンバータです。
 リサイズ、クロップ、カット、トリムにも対応しています。pip導入可。
 詳細は[mov2gif](https://github.com/tantanGH/mov2gif/)へ。
+
+---
+
+### png2sp
+
+これはX680x0用ソフトウェアではなく Python で書かれたアプリケーションです。PNG形式の画像データを X68k スプライトパターンおよびパレットデータに変換できるコンバータです。
+透過PNGに対応しています。出力形式はCコンパイラで即利用可能なテキスト形式です。pip導入可。
+詳細は[png2sp](https://github.com/tantanGH/png2sp/)へ。
 
 ---
 
