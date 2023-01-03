@@ -2,14 +2,14 @@
 
 ## 目次
 
-X680x0/Human68k用ソフトウェア
+X680x0/Human68k ソフトウェア
 - [PNGEX.X](#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
 - [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [BMPEX.X](#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
 - [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
 - [funcoff.r](#funcofr) ... ファンクションキー表示強制抑制
 
-Python用ソフトウェア
+Python ソフトウェア
 - [pymag](#pymag) ... PNG/JPG/BMP to MAG コンバータ in Python
 - [dim2xdf](#dim2xdf) ... X68k FDファイルイメージコンバータ in Python
 - [wav2adpcm](#wav2adpcm) ... WAV to X68k ADPCM コンバータ in Python
