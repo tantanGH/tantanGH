@@ -206,7 +206,7 @@ pip導入可。
 
 ## CONTACT / 連絡先
 
-tantan (github:tantanGH, twitter:snakGH)
+tantan (https://github.com/tantanGH/ twitter:@snakGH)
 
 <!---
 tantanGH/tantanGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
