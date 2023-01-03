@@ -10,11 +10,11 @@ X680x0/Human68k ソフトウェア
 - [funcoff.r](#funcofr) ... ファンクションキー表示強制抑制
 
 Python ソフトウェア
-- [pymag](#pymag) ... PNG/JPG/BMP to MAG コンバータ in Python
-- [dim2xdf](#dim2xdf) ... X68k FDファイルイメージコンバータ in Python
-- [wav2adpcm](#wav2adpcm) ... WAV to X68k ADPCM コンバータ in Python
-- [mov2gif](#mov2gif) ... MP4/AVI to アニメーションGIF コンバータ in Python
-- [png2sp](#png2sp) ... 透過PNG to X68k スプライトデータ コンバータ in Python
+- [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
+- [dim2xdf](https://github.com/tantanGH/dim2xdf/) ... X68k FDファイルイメージコンバータ in Python
+- [wav2adpcm](https://github.com/tantanGH/wav2adpcm/) ... WAV to X68k ADPCM コンバータ in Python
+- [mov2gif](https://github.com/tantanGH/mov2gif/) ... MP4/AVI to アニメーションGIF コンバータ in Python
+- [png2sp](https://github.com/tantanGH/png2sp) ... 透過PNG to X68k スプライトデータ コンバータ in Python
 
 各種覚書
 - [X680x0 C言語でハイメモリを使う方法](https://github.com/tantanGH/distribution/blob/main/use_HIMEM_in_C.md)
