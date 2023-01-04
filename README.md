@@ -15,7 +15,7 @@ Python ソフトウェア
 - [wav2adpcm](https://github.com/tantanGH/wav2adpcm/) ... WAV to X68k ADPCM コンバータ in Python
 - [mov2gif](https://github.com/tantanGH/mov2gif/) ... MP4/AVI to アニメーションGIF コンバータ in Python
 - [png2sp](https://github.com/tantanGH/png2sp) ... 透過PNG to X68k スプライトデータ コンバータ in Python
-- [pngdeband](https://github.com/tantanGH/pngdeband) ... バンド除去フィルタ付き 24/32bit PNG to 15bit PNG コンバータ in Python
+- [pngdeband](https://github.com/tantanGH/pngdeband) ... バンド除去フィルタ付 24/32bit PNG to 15bit PNG コンバータ in Python
 
 各種覚書
 - [X680x0 C言語でハイメモリを使う](https://github.com/tantanGH/distribution/blob/main/use_HIMEM_in_C.md)
