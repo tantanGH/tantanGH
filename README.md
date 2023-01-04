@@ -15,6 +15,7 @@ Python ソフトウェア
 - [wav2adpcm](https://github.com/tantanGH/wav2adpcm/) ... WAV to X68k ADPCM コンバータ in Python
 - [mov2gif](https://github.com/tantanGH/mov2gif/) ... MP4/AVI to アニメーションGIF コンバータ in Python
 - [png2sp](https://github.com/tantanGH/png2sp) ... 透過PNG to X68k スプライトデータ コンバータ in Python
+- [pngdeband](https://github.com/tantanGH/pngdeband) ... バンド除去フィルタ付き 24/32bit PNG to 15bit PNG コンバータ in Python
 
 各種覚書
 - [X680x0 C言語でハイメモリを使う](https://github.com/tantanGH/distribution/blob/main/use_HIMEM_in_C.md)
@@ -194,6 +195,14 @@ pip導入可。
 これはX680x0用ソフトウェアではなく Python で書かれたアプリケーションです。PNG形式の画像データを X68k スプライトパターンおよびパレットデータに変換できるコンバータです。
 透過PNGに対応しています。16x16を超えるサイズの場合は、複数のスプライトパターンに自動分割します。パレットは共通です。出力形式はCコンパイラで即利用可能なテキスト形式です。pip導入可。
 詳細は[png2sp](https://github.com/tantanGH/png2sp/)へ。
+
+---
+
+### png2deband
+
+これはX680x0用ソフトウェアではなく Python で書かれたアプリケーションです。24/32bit PNG形式の画像データを X68k で表示するのに適した 15bit PNGに変換します。 
+その際に band (マッハバンド) 除去を行うことで X680x0 に適した形式となります。リサイズも可能。pip導入可。
+詳細は[png2sp](https://github.com/tantanGH/pngdeband/)へ。
 
 ---
 
