@@ -198,11 +198,11 @@ pip導入可。
 
 ---
 
-### png2deband
+### pngdeband
 
 これはX680x0用ソフトウェアではなく Python で書かれたアプリケーションです。24/32bit PNG形式の画像データを X68k で表示するのに適した 15bit PNGに変換します。 
 その際に band (マッハバンド) 除去を行うことで X680x0 に適した形式となります。リサイズも可能。pip導入可。
-詳細は[png2sp](https://github.com/tantanGH/pngdeband/)へ。
+詳細は[pngdeband](https://github.com/tantanGH/pngdeband/)へ。
 
 ---
 
