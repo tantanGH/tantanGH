@@ -22,7 +22,7 @@ Python ソフトウェア
 - [X680x0で384x256の画面モードを使う](https://github.com/tantanGH/distribution/blob/main/x680x0_screen_384x256.md)
 - [令和に再開するX680x0 C言語プログラミング](https://github.com/tantanGH/distribution/blob/main/x68k_c_programming_1.md)
 - [X680x0/WindowsユーザのためのPython導入ガイド](https://github.com/tantanGH/distribution/blob/main/windows_python_for_x68k.md)
-- [macOSユーザのためのX680x0エミュレータXEiJ導入ガイド](https://github.com/tantanGH/distribution/blob/main/INSTALL_macOS_XEiJ.md)
+- [macOSユーザのためのX680x0エミュレータXEiJ活用ガイド(導入編)](https://zenn.dev/tantangh/articles/1b86b788812028)
 - [macOSユーザのためのX680x0クロス開発環境xdev68k導入ガイド](https://github.com/tantanGH/distribution/blob/main/INSTALL_xdev68k_M1Mac.md)
 
 ---
