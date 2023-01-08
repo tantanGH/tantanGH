@@ -32,6 +32,14 @@ Python ソフトウェア
 
 ---
 
+### PPTBREAK.X
+
+X680x0用のブロック崩しもどきゲームです。
+
+![](https://github.com/tantanGH/pptbreak/images/17.gif)
+
+詳細は[PPTBREAK](https://github.com/tantanGH/pptbreak/)へ。
+
 ### PNGEX.X
 
 X680x0用のPNG画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応しており、最大1024x1024x32768色の表示が可能です。ハイメモリをバッファとして利用可能です。
