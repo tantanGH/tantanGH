@@ -3,7 +3,7 @@
 ## 目次
 
 X680x0/Human68k ソフトウェア
-- [PPTBREAK.X](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (xdev68k対応ソースコード付)
+- [PPT Breaker](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (xdev68k対応ソースコード付)
 - [PNGEX.X](#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
 - [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [BMPEX.X](#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
@@ -32,7 +32,7 @@ Python ソフトウェア
 
 ---
 
-### PPTBREAK.X
+### PPT Breaker
 
 X680x0用のブロック崩しもどきゲームです。
 
