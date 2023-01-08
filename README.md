@@ -36,7 +36,7 @@ Python ソフトウェア
 
 X680x0用のブロック崩しもどきゲームです。
 
-![](https://github.com/tantanGH/pptbreak/images/17.gif)
+![](https://github.com/tantanGH/pptbreak/raw/main/images/17.gif)
 
 詳細は[PPTBREAK](https://github.com/tantanGH/pptbreak/)へ。
 
