@@ -38,7 +38,7 @@ X680x0用のブロック崩しもどきゲームです。
 
 ![](https://github.com/tantanGH/pptbreak/raw/main/images/17.gif)
 
-詳細は[PPTBREAK](https://github.com/tantanGH/pptbreak/)へ。
+詳細は[PPT Breaker for X680x0](https://github.com/tantanGH/pptbreak/)へ。
 
 ---
 
