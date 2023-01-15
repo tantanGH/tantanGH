@@ -3,6 +3,7 @@
 ## 目次
 
 X680x0/Human68k ソフトウェア
+- [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232C-USB クロス接続用ファイル受信ツール
 - [PPT Breaker](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (xdev68k対応ソースコード付)
 - [MDXVCAT.X](https://github.com/tantanGH/mdxvcat) ... MDX音色データ抽出ツール (MDX/ZMS/XC/BAS形式出力対応)
 - [PNGEX.X](#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
@@ -12,6 +13,7 @@ X680x0/Human68k ソフトウェア
 - [funcoff.r](#funcofr) ... ファンクションキー表示強制抑制
 
 Python ソフトウェア
+- [rstx] (https://github.com/tantanGH/rstx) ... RS232C-USB クロス接続用ファイル送信ツール
 - [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
 - [dim2xdf](https://github.com/tantanGH/dim2xdf/) ... X68k FDファイルイメージコンバータ in Python
 - [wav2adpcm](https://github.com/tantanGH/wav2adpcm/) ... ローパスフィルタ付 WAV to X68k ADPCM コンバータ in Python
