@@ -13,7 +13,7 @@ X680x0/Human68k ソフトウェア
 - [funcoff.r](#funcofr) ... ファンクションキー表示強制抑制
 
 Python ソフトウェア
-- [rstx] (https://github.com/tantanGH/rstx) ... RS232C-USB クロス接続用ファイル送信ツール
+- [rstx](https://github.com/tantanGH/rstx) ... RS232C-USB クロス接続用ファイル送信ツール
 - [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
 - [dim2xdf](https://github.com/tantanGH/dim2xdf/) ... X68k FDファイルイメージコンバータ in Python
 - [wav2adpcm](https://github.com/tantanGH/wav2adpcm/) ... ローパスフィルタ付 WAV to X68k ADPCM コンバータ in Python
