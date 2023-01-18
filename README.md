@@ -9,9 +9,10 @@ X680x0/Human68k ソフトウェア
 - [PNGEX.X](#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
 - [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [BMPEX.X](#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
-- [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
 - [funcoff.r](#funcofr) ... ファンクションキー表示強制抑制
-
+- [MPUTYPE.X](#mputype) ... MPUタイプを判別して終了コードとして返すツール
+- [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
+- 
 Python ソフトウェア
 - [rstx](https://github.com/tantanGH/rstx) ... RS232C-USB クロス接続用ファイル送信ツール
 - [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
@@ -123,26 +124,6 @@ Python上で [Pillow](https://pillow.readthedocs.io/en/stable/) ライブラリ�
     .bmp    ---------sfp-   bmplex -e -n -k -r %p%
             -t--------fp-   bmplex -e -n -v85 %p%
             -c--------fp-   bmplex -e -n -v75 %p%
-
----
-
-### GJ0.X
-
-PNGEX.X や BMPLEX.X で最大1024x1024x65536色の画像表示を行なった後、`screen` コマンドなどを実行し、一時的にグラフィック画面が非表示になると、`screen ,1` として再表示しようとしても画面が乱れます。GVRAMにデータが残っている状態であれば、この GJ0.X を実行することで XEiJ 拡張グラフィック画面を再表示させることができます。なお、GJ0という名前はXEiJが内部的に使っている画面モードの定義からきています。
-
-* [GJ0_003.ZIP](https://github.com/tantanGH/distribution/raw/main/GJ0_003.ZIP) GJ0.X ver0.03 実行ファイル
-
-以下のように何も引数をつけずに実行するか、1をつけて実行すると、1024x1024x65536モードのグラフィック画面を再表示できます。
-
-    GJ0.X
-    GJ0.X 1
-
-以下のように0をつけて実行すると、1024x1024x65536モードのグラフィック画面のVRAMをクリアします。
-
-    GJ0.X 0
-
-拡張グラフィックを有効にしたXEiJ上以外では意味がなく、正常動作しませんのでご注意ください。
-
 ---
 
 ### funcoff.r
@@ -168,6 +149,67 @@ Human68kのコンソール画面の下部に表示されるファンクション
     funcoff.r -r
 
 なお、これはXEiJ専用プログラムではありません。
+
+---
+
+### MPUTYPE.X
+
+X680x0 に装着されているMPUの種別を判別し、終了コードとして返します。これによって、バッチファイルの処理を分岐させることができます。
+IPL ROM v1.3 以上が前提です。
+
+* [MPUTYPE.ZIP](https://github.com/tantanGH/distribution/raw/main/MPUTYPE.ZIP) MPUTYPE.X 実行ファイル
+
+終了コード
+    MC68060 ... 6
+    MC68040 ... 4
+    MC68030 ... 3
+    MC68000 ... 0
+
+以下のようにバッチファイル内で使うことを想定しています。
+
+    ECHO OFF
+    
+    MPUTYPE.X
+    IF ERRORLEVEL 6 GOTO X68060
+    IF ERRORLEVEL 4 GOTO X68040
+    IF ERRORLEVEL 3 GOTO X68030
+    GOTO END
+    
+    :X68060
+    ECHO Hello, X68060.
+    GOTO END
+    
+    :X68040
+    ECHO Hello, X68040.
+    GOTO END
+    
+    :X68030
+    ECHO Hello, X68030.
+    GOTO END
+    
+    :X68000
+    ECHO Hello, X68000.
+    
+    :END
+
+---
+
+### GJ0.X
+
+PNGEX.X や BMPLEX.X で最大1024x1024x65536色の画像表示を行なった後、`screen` コマンドなどを実行し、一時的にグラフィック画面が非表示になると、`screen ,1` として再表示しようとしても画面が乱れます。GVRAMにデータが残っている状態であれば、この GJ0.X を実行することで XEiJ 拡張グラフィック画面を再表示させることができます。なお、GJ0という名前はXEiJが内部的に使っている画面モードの定義からきています。
+
+* [GJ0_003.ZIP](https://github.com/tantanGH/distribution/raw/main/GJ0_003.ZIP) GJ0.X ver0.03 実行ファイル
+
+以下のように何も引数をつけずに実行するか、1をつけて実行すると、1024x1024x65536モードのグラフィック画面を再表示できます。
+
+    GJ0.X
+    GJ0.X 1
+
+以下のように0をつけて実行すると、1024x1024x65536モードのグラフィック画面のVRAMをクリアします。
+
+    GJ0.X 0
+
+拡張グラフィックを有効にしたXEiJ上以外では意味がなく、正常動作しませんのでご注意ください。
 
 ---
 
