@@ -159,11 +159,13 @@ IPL ROM v1.3 以上が前提です。
 
 * [MPUTYPE.ZIP](https://github.com/tantanGH/distribution/raw/main/MPUTYPE.ZIP) MPUTYPE.X 実行ファイル
 
-終了コード
-    MC68060 ... 6
-    MC68040 ... 4
-    MC68030 ... 3
-    MC68000 ... 0
+MPUの種類と終了コードの対応
+MPU|終了コード
+-|-
+68060|6
+68040|4
+68030|3
+68000|0
 
 以下のようにバッチファイル内で使うことを想定しています。
 
