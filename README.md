@@ -85,6 +85,8 @@ X680x0用のGIF画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡�
        -w<n> ... フレームレートを指定します (0:1/30fps, n:n fps, default:自動判定)
 
 注意：大きく長いアニメーションGIFを再生するには大量のメモリとマシンパワーが必要です。ハイメモリの利用(`-u`)を強く推奨します。
+
+アニメーションGIFは拙作 [mov2gif](https://github.com/tantanGH/mov2gif/) などで動画ファイルを変換して作ることができます。
     
 ---
 
