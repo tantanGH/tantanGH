@@ -64,7 +64,7 @@ X680x0用のGIF画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡�
 
 ![](https://github.com/tantanGH/distribution/raw/main/images/gif_demo1.gif)
 
-* [GIFEX040.ZIP](https://github.com/tantanGH/distribution/raw/main/GIFEX040.ZIP) GIFEX.X 0.4.0 実行ファイル
+* [GIFEX050.ZIP](https://github.com/tantanGH/distribution/raw/main/GIFEX050.ZIP) GIFEX.X 0.4.0 実行ファイル
 
 
       GIFEX - GIF image loader with XEiJ graphic extension support version 0.4.0 by tantan 2023
@@ -76,6 +76,7 @@ X680x0用のGIF画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡�
        -h ... ヘルプメッセージの表示
        -i ... GIFファイル情報の表示
        -k ... 表示後にキー待ちをします
+       -l ... 無限ループします(ESCキーで抜けます)
        -m ... すべてのデータを事前にメモリに展開してからアニメーションを再生します
        -n ... 画像を中央に表示します
        -o<x,y> ... 画像の表示位置を指定します -n は上書きされます
