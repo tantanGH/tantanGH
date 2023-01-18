@@ -10,7 +10,7 @@ X680x0/Human68k ソフトウェア
 - [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [BMPEX.X](#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
 - [funcoff.r](#funcofr) ... ファンクションキー表示強制抑制常駐プログラム
-- [MPUTYPE.X](#mputype) ... MPUタイプを判別して終了コードとして返すツール
+- [MPUTYPE.X](#mputypex) ... MPUタイプを判別して終了コードとして返すツール
 - [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
 
 Python ソフトウェア
