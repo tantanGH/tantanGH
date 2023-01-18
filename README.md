@@ -70,12 +70,11 @@ X680x0用のGIF画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡�
       GIFEX - GIF image loader with XEiJ graphic extension support version 0.5.0 by tantan 2023
       usage: gifex.x [options] <image.gif>
       options:
-       -b<n> ... バッファメモリの大きさを調整します[1-32] (デフォルト:8)
+       -b<n> ... バッファメモリの大きさを調整します[1-24] (デフォルト:4)
        -c ... 表示する前に画面クリアします
        -f<n> ... 最大表示フレーム数 (デフォルト:無制限)
        -h ... ヘルプメッセージの表示
        -i ... GIFファイル情報の表示
-       -k ... 表示後にキー待ちをします
        -l ... 無限ループします(ESCキーで抜けます)
        -m ... すべてのデータを事前にメモリに展開してからアニメーションを再生します
        -n ... 画像を中央に表示します
