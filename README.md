@@ -12,7 +12,7 @@ X680x0/Human68k ソフトウェア
 - [funcoff.r](#funcofr) ... ファンクションキー表示強制抑制
 - [MPUTYPE.X](#mputype) ... MPUタイプを判別して終了コードとして返すツール
 - [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
-- 
+
 Python ソフトウェア
 - [rstx](https://github.com/tantanGH/rstx) ... RS232C-USB クロス接続用ファイル送信ツール
 - [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
