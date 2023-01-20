@@ -157,7 +157,7 @@ Human68kのコンソール画面の下部に表示されるファンクション
 X68030 に装着されているMPUの種別を `IOCS __SYS_STAT` で判別し、終了コードとして返します。
 これによって、バッチファイルの処理を分岐させることができます。
 ROM IOCS v1.3 以上が前提のため、事実上X68030シリーズ専用です。かつ68060の場合は`060turbo.sys`の導入が必須です。
-なお、68040については`040syspatch.x`の導入で対応できるのかは確認しておらず不明です。
+なお、68040については`040SYSpatch.x`の導入で対応できるのかは確認しておらず不明です。
 
 * [MPUTYPE.ZIP](https://github.com/tantanGH/distribution/raw/main/MPUTYPE.ZIP) MPUTYPE.X 実行ファイル
 
