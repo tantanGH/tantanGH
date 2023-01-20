@@ -89,6 +89,8 @@ X680x0用のGIF画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡�
 
 アニメーションGIFは拙作 [mov2gif](https://github.com/tantanGH/mov2gif/) などで動画ファイルを変換して作ることができます。
     
+詳細は [gifex](https://github.com/tantanGH/gifex) へ。    
+    
 ---
 
 ### BMPLEX.X
