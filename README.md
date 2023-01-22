@@ -12,6 +12,7 @@ X680x0/Human68k ソフトウェア
 - [BMPEX.X](#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
 - [funcoff.r](#funcofr) ... ファンクションキー表示強制抑制常駐プログラム
 - [MPUTYPE.X](#mputypex) ... MPUタイプを判別して終了コードとして返すツール
+- [KEEPCHK.X](https://github.com/tantanGH/keepchk) ... 常駐プログラムが常駐しているかをチェックするツール
 - [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
 
 Python ソフトウェア
