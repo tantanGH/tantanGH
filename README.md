@@ -6,6 +6,7 @@ X680x0/Human68k ソフトウェア
 - [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232C-USB クロス接続用ファイル受信ツール
 - [PPT Breaker](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (xdev68k対応ソースコード付)
 - [MDXVCAT.X](https://github.com/tantanGH/mdxvcat) ... MDX音色データ抽出ツール (MDX/ZMS/XC/BAS形式出力対応)
+- [XDFWRITE.X](https://github.com/tantanGH/xdfwrite) ... XDFファイルをFDに書き込むツール
 - [PNGEX.X](#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
 - [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [BMPEX.X](#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
