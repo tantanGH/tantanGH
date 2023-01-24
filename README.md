@@ -68,10 +68,10 @@ X680x0用のGIF画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡�
 
 ![](https://github.com/tantanGH/distribution/raw/main/images/gif_demo1.gif)
 
-* [GIFEX070.ZIP](https://github.com/tantanGH/distribution/raw/main/GIFEX060.ZIP) GIFEX.X 0.7.0 実行ファイル
+* [GIFEX071.ZIP](https://github.com/tantanGH/distribution/raw/main/GIFEX071.ZIP) GIFEX.X 0.7.1 実行ファイル
 
 
-      GIFEX - GIF image loader with XEiJ graphic extension support version 0.7.0 by tantan 2023
+      GIFEX - GIF image loader with XEiJ graphic extension support version 0.7.1 by tantan 2023
       usage: gifex.x [options] <image.gif>
       options:
        -b<n> ... バッファメモリの大きさを調整します[1-24] (デフォルト:4)
