@@ -3,28 +3,28 @@
 ## 目次
 
 X680x0/Human68k ソフトウェア
-- [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232C-USB クロス接続用ファイル受信ツール
 - [PPT Breaker](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (xdev68k対応ソースコード付)
 - [MDXVCAT.X](https://github.com/tantanGH/mdxvcat) ... MDX音色データ抽出ツール (MDX/ZMS/XC/BAS形式出力対応)
-- [XDFWRITE.X](https://github.com/tantanGH/xdfwrite) ... XDFファイルをFDに書き込むツール
 - [PNGEX.X](#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
 - [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [BMPEX.X](#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
 - [funcoff.r](#funcofr) ... ファンクションキー表示強制抑制常駐プログラム
 - [MPUTYPE.X](#mputypex) ... MPUタイプを判別して終了コードとして返すツール
+- [XDFWRITE.X](https://github.com/tantanGH/xdfwrite) ... XDFファイルをFDに書き込むツール
 - [KEEPCHK.X](https://github.com/tantanGH/keepchk) ... 常駐プログラムが常駐しているかをチェックするツール
 - [ONTIME.X](https://github.com/tantanGH/ontime) ... アプリケーションの実行時間を計測するツール
 - [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
+- [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232C-USB クロス接続用ファイル受信ツール
 
 Python ソフトウェア
-- [rstx](https://github.com/tantanGH/rstx) ... RS232C-USB クロス接続用ファイル送信ツール
 - [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
 - [dim2xdf](https://github.com/tantanGH/dim2xdf/) ... X68k FDファイルイメージコンバータ in Python
 - [wav2adpcm](https://github.com/tantanGH/wav2adpcm/) ... ローパスフィルタ付 WAV to X68k ADPCM コンバータ in Python
 - [mov2gif](https://github.com/tantanGH/mov2gif/) ... MP4/AVI to アニメーションGIF コンバータ in Python
 - [png2sp](https://github.com/tantanGH/png2sp) ... 透過PNG to X68k スプライトデータ コンバータ in Python
 - [pngdeband](https://github.com/tantanGH/pngdeband) ... バンド除去フィルタ付 24/32bit PNG to 15bit PNG コンバータ in Python
-
+- [rstx](https://github.com/tantanGH/rstx) ... RS232C-USB クロス接続用ファイル送信ツール
+- 
 各種覚書
 - [X680x0実機とMacとの間でファイル転送する(MO編)](https://github.com/tantanGH/distribution/blob/main/x68k_Mac_data_exchange_MO.md)
 - [X680x0の1.2MBフォーマット3.5インチFDをMacでイメージ化する](https://github.com/tantanGH/xdfwrite/)
