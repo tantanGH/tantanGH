@@ -52,7 +52,7 @@ Python ソフトウェア
 
 ![](https://github.com/tantanGH/distribution/raw/main/images/pngscale.gif)
 
-* [PNGSC010.ZIP](https://github.com/tantanGH/distribution/raw/main/PNGSC010.ZIP) PNGSCALE.X 0.1.0 実行ファイル
+* [PNGSC010.ZIP](https://github.com/tantanGH/distribution/raw/main/PNGSC010.ZIP) PNGSCALE.X 0.1.0 実行ファイルおよびデータファイル
 
 アーカイブに含まれるファイルをすべて一つのディレクトリにコピーし、カレントディレクトリをそのディレクトリにした上で `PNGSCALE.X` を実行します。
 
