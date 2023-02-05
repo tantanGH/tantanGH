@@ -48,7 +48,7 @@ Python ソフトウェア
 
 複数のPNG画像を拡大縮小回転させるデモアプリです。
 
-注意: 68060+ハイメモリ専用ソフトウェアです。ハイメモリは最低32MB必要です。
+注意: 68060+ハイメモリ専用ソフトウェアです。ハイメモリは最低32MB必要です。また、060loadhigh.x を使ってアプケーション本体もハイメモリ上での実行を推奨します。
 
 ![](https://github.com/tantanGH/distribution/raw/main/images/pngscale.gif)
 
