@@ -5,6 +5,7 @@
 X680x0/Human68k ソフトウェア
 - [MDXVV.X](https://github.com/tantanGH/mdxvv) ... MDXセレクタ＆プレーヤ＆音色データビュワー (β版)
 - [MDXVCAT.X](https://github.com/tantanGH/mdxvcat) ... MDX音色データ抽出ツール (MDX/ZMS/XC/BAS形式出力対応)
+- [PNGSCALE.X](#pngscale) ... 拡大縮小回転デモ兼ベンチ (X68060 専用)
 - [PPT Breaker](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (xdev68k対応ソースコード付)
 - [PNGEX.X](#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
 - [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
@@ -40,6 +41,26 @@ Python ソフトウェア
 ---
 
 ## X680x0 / Human68k ソフトウェア
+
+---
+
+### PNGSCALE.X 
+
+複数のPNG画像を拡大縮小回転させるデモアプリです。
+
+![](https://github.com/tantanGH/distribution/raw/main/images/pngscale.gif)
+
+* [PNGSC010.ZIP](https://github.com/tantanGH/distribution/raw/main/PNGSC010.ZIP) PNGSCALE.X 0.1.0 実行ファイル
+
+アーカイブに含まれるファイルをすべて一つのディレクトリにコピーし、カレントディレクトリをそのディレクトリにした上で `PNGSCALE.X` を実行します。
+
+   usage: pngscale [-f] <画像数(1-8)> [クロップレベル(0-5,デフォルト2)]
+   
+画像数の指定は必須です。PNGファイルはランダムに選択されます。画像を差し替える場合は 320x320px の RGB/RGBA のPNGファイルと入れ替えてください。
+
+クロップレベルは 384x256 モードの周囲どれくらいを描画対象から外すかの指定です。デフォルトは2です。0だとクロップしません。
+
+`-f` オプションをつけると fps の表示を行います。
 
 ---
 
