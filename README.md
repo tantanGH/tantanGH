@@ -50,7 +50,7 @@ Python ソフトウェア
 
 注意: 68060+ハイメモリ専用ソフトウェアです。ハイメモリは最低32MB必要です。また、060loadhigh.x を使ってアプケーション本体もハイメモリ上での実行を推奨します。
 
-![](https://github.com/tantanGH/distribution/raw/main/images/pngscale.gif)
+![](https://github.com/tantanGH/distribution/raw/main/images/pngscale2.gif)
 
 * [PNGSC010.ZIP](https://github.com/tantanGH/distribution/raw/main/PNGSC010.ZIP) PNGSCALE.X 0.1.0 実行ファイルおよびデータファイル
 
