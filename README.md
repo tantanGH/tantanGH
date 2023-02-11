@@ -21,8 +21,8 @@ X680x0/Human68k ソフトウェア
 - [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232C-USB クロス接続用ファイル受信ツール
 
 MicroPython for X680x0 ソフトウェア
-- [sprite.py](#spritepy)
-- [maze.py](#mazepy)
+- [sprite.py](#spritepy) ... 擬似3D宇宙空間移動デモ
+- [maze.py](#mazepy) ... 巨大迷路作成デモ
 
 Python ソフトウェア
 - [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
