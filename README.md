@@ -103,7 +103,7 @@ X680x0用のGIF画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡�
 
 アニメーションにも対応していますが、表示タイミングは厳密ではありません。
 
-![](https://github.com/tantanGH/distribution/raw/main/images/gif_demo1.gif)
+![](https://github.com/tantanGH/distribution/raw/main/images/gif_demo1a.gif)
 
 アニメーションGIFは拙作 [mov2gif](https://github.com/tantanGH/mov2gif/) などで動画ファイルを変換して作ることができます。
     
