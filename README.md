@@ -253,6 +253,8 @@ HAS / HIOCS で有名なX68kレジェンドの一人、yunk氏が令和に送り
 
 [sprite.py ソース](https://github.com/tantanGH/distribution/blob/main/sprite.py)
 
+ジョイスティックの上下左右で移動、Bボタンで加速です。シフトキーで終了します。
+
 ---
 
 ### maze.py
@@ -264,7 +266,9 @@ HAS / HIOCS で有名なX68kレジェンドの一人、yunk氏が令和に送り
 
 <img width='800' src='https://github.com/tantanGH/distribution/raw/main/images/maze2.gif'/>
 
-[sprite.py ソース](https://github.com/tantanGH/distribution/blob/main/maze.py)
+[maze.py ソース](https://github.com/tantanGH/distribution/blob/main/maze.py)
+
+巨大迷路作成の様子を眺める環境ソフト(スクリーンセイバー？)です。シフトキーで終了します。
 
 ---
 
