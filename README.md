@@ -57,7 +57,7 @@ Python ソフトウェア
 
 注意: 68060+ハイメモリ専用ソフトウェアです。ハイメモリは最低32MB必要です。また、060loadhigh.x を使ってアプケーション本体もハイメモリ上での実行を推奨します。
 
-![](https://github.com/tantanGH/distribution/raw/main/images/pngscale2.gif)
+![](https://github.com/tantanGH/distribution/raw/main/images/pngscale2a.gif)
 
 * [PNGSC010.ZIP](https://github.com/tantanGH/distribution/raw/main/PNGSC010.ZIP) PNGSCALE.X 0.1.0 実行ファイルおよびデータファイル
 
@@ -81,7 +81,7 @@ ESC/CR/SPACEキーを押すと終了します。
 
 X680x0用のブロック崩しもどきゲームです。
 
-![](https://github.com/tantanGH/pptbreak/raw/main/images/17.gif)
+![](https://github.com/tantanGH/pptbreak/raw/main/images/17a.gif)
 
 詳細は[PPT Breaker for X680x0](https://github.com/tantanGH/pptbreak/)へ。
 
