@@ -20,6 +20,10 @@ X680x0/Human68k ソフトウェア
 - [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
 - [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232C-USB クロス接続用ファイル受信ツール
 
+MicroPython for X68k ソフトウェア
+- [sprite.py](#spritepy)
+- [maze.py](#mazepy)
+
 Python ソフトウェア
 - [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
 - [dim2xdf](https://github.com/tantanGH/dim2xdf/) ... X68k FDファイルイメージコンバータ in Python
@@ -231,6 +235,36 @@ PNGEX.X や BMPLEX.X で最大1024x1024x65536色の画像表示を行なった�
     GJ0.X 0
 
 拡張グラフィックを有効にしたXEiJ上以外では意味がなく、正常動作しませんのでご注意ください。
+
+---
+
+## MicroPython for X680x0 ソフトウェア
+
+---
+
+### sprite.py
+
+HAS / HIOCS で有名なX68kレジェンドの一人、yunk氏が令和に送り出す [MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 
+を使った練習です。
+
+<img width='800' src='https://github.com/tantanGH/distribution/raw/main/images/star1.gif'/>
+
+<img width='800' src='https://github.com/tantanGH/distribution/raw/main/images/star2.gif'/>
+
+[sprite.py ソース](https://github.com/tantanGH/distribution/blob/main/sprite.py)
+
+---
+
+### maze.py
+
+HAS / HIOCS で有名なX68kレジェンドの一人、yunk氏が令和に送り出す [MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 
+を使った練習です。
+
+<img width='800' src='https://github.com/tantanGH/distribution/raw/main/images/maze1.gif'/>
+
+<img width='800' src='https://github.com/tantanGH/distribution/raw/main/images/maze2.gif'/>
+
+[sprite.py ソース](https://github.com/tantanGH/distribution/blob/main/maze.py)
 
 ---
 
