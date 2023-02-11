@@ -247,9 +247,9 @@ PNGEX.X や BMPLEX.X で最大1024x1024x65536色の画像表示を行なった�
 HAS / HIOCS で有名なX68kレジェンドの一人、yunk氏が令和に送り出す [MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 
 を使った練習です。
 
-<img width='800' src='https://github.com/tantanGH/distribution/raw/main/images/star1.gif'/>
+<img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/star1.gif'/>
 
-<img width='800' src='https://github.com/tantanGH/distribution/raw/main/images/star2.gif'/>
+<img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/star2.gif'/>
 
 [sprite.py ソース](https://github.com/tantanGH/distribution/blob/main/sprite.py)
 
@@ -262,9 +262,9 @@ HAS / HIOCS で有名なX68kレジェンドの一人、yunk氏が令和に送り
 HAS / HIOCS で有名なX68kレジェンドの一人、yunk氏が令和に送り出す [MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 
 を使った練習です。
 
-<img width='800' src='https://github.com/tantanGH/distribution/raw/main/images/maze1.gif'/>
+<img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/maze1.gif'/>
 
-<img width='800' src='https://github.com/tantanGH/distribution/raw/main/images/maze2.gif'/>
+<img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/maze2.gif'/>
 
 [maze.py ソース](https://github.com/tantanGH/distribution/blob/main/maze.py)
 
