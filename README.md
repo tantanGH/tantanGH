@@ -20,7 +20,7 @@ X680x0/Human68k ソフトウェア
 - [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
 - [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232C-USB クロス接続用ファイル受信ツール
 
-MicroPython for X68k ソフトウェア
+MicroPython for X680x0 ソフトウェア
 - [sprite.py](#spritepy)
 - [maze.py](#mazepy)
 
