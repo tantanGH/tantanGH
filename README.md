@@ -245,7 +245,7 @@ PNGEX.X や BMPLEX.X で最大1024x1024x65536色の画像表示を行なった�
 
 ### sprite.py
 
-HAS / HIOCS で超高名なX68kレジェンドの一人、yunk氏が令和に送り出す [MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 
+HAS.X / HIOCS.X で超高名なX68kレジェンドの一人、yunk氏が令和に送り出す [MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 
 を使う練習です。
 
 <img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/star2a.gif'/>
