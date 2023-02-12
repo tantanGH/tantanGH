@@ -23,6 +23,7 @@ X680x0/Human68k ソフトウェア
 MicroPython for X680x0 ソフトウェア
 - [sprite.py](#spritepy) ... 擬似3D宇宙空間移動デモ
 - [maze.py](#mazepy) ... 巨大迷路作成デモ
+- [opmtest.py](#opmtestpy) ... MML記述＆FM音源再生デモ
 
 Python ソフトウェア
 - [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
@@ -269,6 +270,16 @@ HAS / HIOCS で有名なX68kレジェンドの一人、yunk氏が令和に送り
 [maze.py ソース](https://github.com/tantanGH/distribution/blob/main/maze.py)
 
 巨大迷路作成の様子を眺める環境ソフト(スクリーンセイバー？)です。シフトキーで終了します。
+
+---
+
+### opmtest.py
+
+OPMDRV3.X もしくは ZMUSIC v2 の組み込みが必要です。
+
+https://user-images.githubusercontent.com/121137457/218295954-08157ce0-957b-43a0-be36-15bb10993f4d.mp4
+
+[opmtest.py ソース](https://github.com/tantanGH/distribution/blob/main/opmtest.py)
 
 ---
 
