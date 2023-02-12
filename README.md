@@ -245,10 +245,8 @@ PNGEX.X や BMPLEX.X で最大1024x1024x65536色の画像表示を行なった�
 
 ### sprite.py
 
-HAS / HIOCS で有名なX68kレジェンドの一人、yunk氏が令和に送り出す [MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 
-を使った練習です。
-
-<img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/star1a.gif'/>
+HAS / HIOCS で超高名なX68kレジェンドの一人、yunk氏が令和に送り出す [MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 
+を使う練習です。
 
 <img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/star2a.gif'/>
 
@@ -259,9 +257,6 @@ HAS / HIOCS で有名なX68kレジェンドの一人、yunk氏が令和に送り
 ---
 
 ### maze.py
-
-HAS / HIOCS で有名なX68kレジェンドの一人、yunk氏が令和に送り出す [MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 
-を使った練習です。
 
 <img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/maze1a.gif'/>
 
@@ -275,7 +270,7 @@ HAS / HIOCS で有名なX68kレジェンドの一人、yunk氏が令和に送り
 
 ### opmtest.py
 
-OPMDRV3.X もしくは ZMUSIC v2 の組み込みが必要です。
+MicroPython for X680x0 で MMLを記述しFM音源の曲を演奏します。OPMDRV3.X もしくは ZMUSIC v2 の組み込みが必要です。
 
 https://user-images.githubusercontent.com/121137457/218295954-08157ce0-957b-43a0-be36-15bb10993f4d.mp4
 
