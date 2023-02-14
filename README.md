@@ -268,13 +268,17 @@ HAS.X / HIOCS.X で超高名なX68kレジェンドの一人、yunk氏が令和�
 
 ---
 
-### opmtest.py
+### opmtest.py / opmtest2.py
 
 MicroPython for X680x0 で MMLを記述しFM音源の曲を演奏します。OPMDRV3.X もしくは ZMUSIC v2 の組み込みが必要です。
 
 https://user-images.githubusercontent.com/121137457/218295954-08157ce0-957b-43a0-be36-15bb10993f4d.mp4
 
+https://user-images.githubusercontent.com/121137457/218763491-fd5e4ff9-56fa-4186-8c6b-fe5ba3f312e4.mp4
+
 [opmtest.py ソース](https://github.com/tantanGH/distribution/blob/main/opmtest.py)
+
+[opmtest2.py ソース](https://github.com/tantanGH/distribution/blob/main/opmtest2.py)
 
 ---
 
