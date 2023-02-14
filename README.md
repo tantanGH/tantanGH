@@ -23,7 +23,7 @@ X680x0/Human68k ソフトウェア
 MicroPython for X680x0 ソフトウェア
 - [sprite.py](#spritepy) ... 擬似3D宇宙空間移動デモ
 - [maze.py](#mazepy) ... 巨大迷路作成デモ
-- [opmtest.py](#opmtestpy) ... MML記述＆FM音源再生デモ
+- [opmtest.py,opmtest2.py](#opmtestpy--opmtest2py) ... MML記述＆FM音源再生デモ
 
 Python ソフトウェア
 - [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
