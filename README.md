@@ -22,6 +22,7 @@ X680x0/Human68k ソフトウェア
 
 MicroPython for X680x0 ソフトウェア
 - [sprite.py](#spritepy) ... 擬似3D宇宙空間移動デモ
+- [sprite2.py)(#sprite2py) ... オブジェクト指向ボール移動デモ
 - [maze.py](#mazepy) ... 巨大迷路作成デモ
 - [opmtest.py,opmtest2.py](#opmtestpy--opmtest2py) ... MML記述＆FM音源再生デモ
 
@@ -256,6 +257,16 @@ HAS.X / HIOCS.X で超高名なX68kレジェンドの一人、yunk氏が令和�
 
 ---
 
+### sprite2.py
+
+<img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/ball.gif'/>
+
+[sprite2.py ソース](https://github.com/tantanGH/distribution/blob/main/sprite2.py)
+
+なるべくオブジェクト指向風に書いたスプライトサンプル。シフトキーで終了します。
+
+---
+
 ### maze.py
 
 <img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/maze1a.gif'/>
@@ -279,6 +290,8 @@ https://user-images.githubusercontent.com/121137457/218763491-fd5e4ff9-56fa-4186
 [opmtest.py ソース](https://github.com/tantanGH/distribution/blob/main/opmtest.py)
 
 [opmtest2.py ソース](https://github.com/tantanGH/distribution/blob/main/opmtest2.py)
+
+opmtest2.py の方は OPMDRVクラスを定義して、デバイスドライバ登録確認も行っています。
 
 ---
 
