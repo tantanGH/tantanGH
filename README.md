@@ -22,7 +22,7 @@ X680x0/Human68k ソフトウェア
 
 MicroPython for X680x0 ソフトウェア
 - [sprite.py](#spritepy) ... 擬似3D宇宙空間移動デモ
-- [sprite2.py)(#sprite2py) ... オブジェクト指向ボール移動デモ
+- [sprite2.py](#sprite2py) ... オブジェクト指向ボール移動デモ
 - [maze.py](#mazepy) ... 巨大迷路作成デモ
 - [opmtest.py,opmtest2.py](#opmtestpy--opmtest2py) ... MML記述＆FM音源再生デモ
 
