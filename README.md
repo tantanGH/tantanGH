@@ -260,7 +260,7 @@ HAS.X / HIOCS.X で超高名なX68kレジェンドの一人、yunk氏が令和�
 
 ### sprite2.py
 
-<img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/ball.gif'/>
+<img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/ball2.gif'/>
 
 [sprite2.py ソース](https://github.com/tantanGH/distribution/blob/main/sprite2.py)
 
