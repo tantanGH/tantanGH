@@ -24,7 +24,8 @@ MicroPython for X680x0 ソフトウェア
 - [sprite.py](#spritepy) ... 擬似3D宇宙空間移動デモ
 - [sprite2.py](#sprite2py) ... オブジェクト指向ボール移動デモ
 - [maze.py](#mazepy) ... 巨大迷路作成デモ
-- [opmtest.py,opmtest2.py](#opmtestpy--opmtest2py) ... MML記述＆FM音源再生デモ
+- [opmtest.py](#opmtestpy) ... MML記述＆FM音源再生デモ
+- [opmtest2.py](#opmtestpy) ... MML記述＆FM音源再生デモその2
 
 Python ソフトウェア
 - [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
@@ -279,19 +280,23 @@ HAS.X / HIOCS.X で超高名なX68kレジェンドの一人、yunk氏が令和�
 
 ---
 
-### opmtest.py / opmtest2.py
+### opmtest.py
 
 MicroPython for X680x0 で MMLを記述しFM音源の曲を演奏します。OPMDRV3.X もしくは ZMUSIC v2 の組み込みが必要です。
 
 https://user-images.githubusercontent.com/121137457/218295954-08157ce0-957b-43a0-be36-15bb10993f4d.mp4
 
-https://user-images.githubusercontent.com/121137457/218763491-fd5e4ff9-56fa-4186-8c6b-fe5ba3f312e4.mp4
-
 [opmtest.py ソース](https://github.com/tantanGH/distribution/blob/main/opmtest.py)
 
-[opmtest2.py ソース](https://github.com/tantanGH/distribution/blob/main/opmtest2.py)
+---
 
-opmtest2.py の方は OPMDRVクラスを定義して、デバイスドライバ登録確認も行っています。
+### opmtest2.py
+
+OPMDRV Pythonクラスを定義して扱いやすくした。コンストラクタでデバイスドライバ登録確認も実装。
+
+https://user-images.githubusercontent.com/121137457/218763491-fd5e4ff9-56fa-4186-8c6b-fe5ba3f312e4.mp4
+
+[opmtest2.py ソース](https://github.com/tantanGH/distribution/blob/main/opmtest2.py)
 
 ---
 
