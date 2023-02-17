@@ -2,25 +2,31 @@
 
 ## 目次
 
-X680x0/Human68k ソフトウェア
+X680x0/Human68k ソフトウェア (サウンド関連)
 - [MP3EXP.X](https://github.com/tantanGH/mp3exp) ... ADPCM/PCM/MP3 プレーヤー
 - [MP3EX.X](https://github.com/tantanGH/mp3ex) ... MP3 to ADPCM/PCM コンバータ
 - [MDXVV.X](https://github.com/tantanGH/mdxvv) ... MDXセレクタ＆プレーヤ＆音色データビュワー
 - [MDXVCAT.X](https://github.com/tantanGH/mdxvcat) ... MDX音色データ抽出ツール (MDX/ZMS/XC/BAS形式出力対応)
+
+X680x0/Human68k ソフトウェア (グラフィック関連)
 - [PNGSCALE.X](#pngscalex) ... 拡大縮小回転デモ兼ベンチ (X68060 専用)
-- [PPTBREAK.X](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム
 - [PNGEX.X](#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
 - [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [BMPEX.X](#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
+- [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
+
+X680x0/Human68k ソフトウェア (ゲーム関連)
+- [PPTBREAK.X](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム
+
+X680x0/Human68k ソフトウェア (ツール関連)
+- [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール
+- [RSTX.X](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール
 - [FUNCOFF.R](#funcofr) ... ファンクションキー表示強制抑制常駐プログラム
 - [MPUTYPE.X](#mputypex) ... MPUタイプを判別して終了コードとして返すツール
 - [FONTSAVE.X](https://github.com/tantanGH/fontsave) ... 現在のフォントをフォントファイルに書き出すツール
 - [XDFWRITE.X](https://github.com/tantanGH/xdfwrite) ... XDFファイルをFDに書き込むツール
 - [KEEPCHK.X](https://github.com/tantanGH/keepchk) ... 常駐プログラムが常駐しているかをチェックするツール
 - [ONTIME.X](https://github.com/tantanGH/ontime) ... アプリケーションの実行時間を計測するツール
-- [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
-- [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール
-- [RSTX.X](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール
 
 MicroPython for X680x0 ソフトウェア
 - [sprite.py](#spritepy) ... 擬似3D宇宙空間移動デモ
