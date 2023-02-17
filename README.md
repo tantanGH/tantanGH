@@ -34,6 +34,7 @@ MicroPython for X680x0 ソフトウェア
 - [maze.py](#mazepy) ... 巨大迷路作成デモ
 - [opmtest.py](#opmtestpy) ... MML記述＆FM音源再生デモ
 - [opmtest2.py](#opmtestpy) ... MML記述＆FM音源再生デモその2
+- [escseq.py](#escseqpy) ... エスケープシーケンスデモ
 
 Python ソフトウェア
 - [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
@@ -306,6 +307,17 @@ OPMDRV Pythonクラスを定義して扱いやすくした。コンストラク�
 https://user-images.githubusercontent.com/121137457/218763491-fd5e4ff9-56fa-4186-8c6b-fe5ba3f312e4.mp4
 
 [opmtest2.py ソース](https://github.com/tantanGH/distribution/blob/main/opmtest2.py)
+
+
+---
+
+### escseq.py
+
+エスケープシーケンス利用サンプル。エスケープシーケンスの詳細は Human68k のマニュアルの巻末に載っています。
+
+<img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/escseq.gif'/>
+
+[escseq.py ソース](https://github.com/tantanGH/distribution/blob/main/escseq.py)
 
 ---
 
