@@ -21,7 +21,7 @@ X680x0/Human68k ソフトウェア
 - [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
 - [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール
 - [RSTX.X](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール
-- 
+
 MicroPython for X680x0 ソフトウェア
 - [sprite.py](#spritepy) ... 擬似3D宇宙空間移動デモ
 - [sprite2.py](#sprite2py) ... オブジェクト指向ボール移動デモ
