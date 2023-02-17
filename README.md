@@ -3,6 +3,7 @@
 ## 目次
 
 X680x0/Human68k ソフトウェア
+- [MP3EXP.X](https://github.com/tantanGH/mp3exp) ... ADPCM/PCM/MP3 プレーヤー
 - [MP3EX.X](https://github.com/tantanGH/mp3ex) ... MP3 to ADPCM/PCM コンバータ
 - [MDXVV.X](https://github.com/tantanGH/mdxvv) ... MDXセレクタ＆プレーヤ＆音色データビュワー
 - [MDXVCAT.X](https://github.com/tantanGH/mdxvcat) ... MDX音色データ抽出ツール (MDX/ZMS/XC/BAS形式出力対応)
