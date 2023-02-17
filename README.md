@@ -1,5 +1,7 @@
 # tantan's room
 
+自作ソフトウェア・覚書など
+
 ## 目次
 
 X680x0/Human68k ソフトウェア (サウンド関連)
@@ -8,7 +10,7 @@ X680x0/Human68k ソフトウェア (サウンド関連)
 - [MDXVV.X](https://github.com/tantanGH/mdxvv) ... MDXセレクタ＆プレーヤ＆音色データビュワー
 - [MDXVCAT.X](https://github.com/tantanGH/mdxvcat) ... MDX音色データ抽出ツール (MDX/ZMS/XC/BAS形式出力対応)
 
-X680x0/Human68k ソフトウェア (グラフィック関連)
+X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [PNGSCALE.X](#pngscalex) ... 拡大縮小回転デモ兼ベンチ (X68060 専用)
 - [PNGEX.X](#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
 - [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
@@ -36,15 +38,19 @@ MicroPython for X680x0 ソフトウェア
 - [opmtest2.py](#opmtestpy) ... MML記述＆FM音源再生デモその2
 - [escseq.py](#escseqpy) ... エスケープシーケンスデモ
 
-Python ソフトウェア
-- [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
-- [dim2xdf](https://github.com/tantanGH/dim2xdf/) ... X68k FDファイルイメージコンバータ in Python
+Python ソフトウェア (サウンド関連)
 - [wav2adpcm](https://github.com/tantanGH/wav2adpcm/) ... ローパスフィルタ付 WAV to X68k ADPCM コンバータ in Python
+
+Python ソフトウェア (グラフィックス・ムービー関連)
+- [pymag](https://github.com/tantanGH/pymag/) ... PNG/JPG/BMP to MAG コンバータ in Python
 - [mov2gif](https://github.com/tantanGH/mov2gif/) ... MP4/AVI to アニメーションGIF コンバータ in Python
 - [png2sp](https://github.com/tantanGH/png2sp) ... 透過PNG to X68k スプライトデータ コンバータ in Python
 - [pngdeband](https://github.com/tantanGH/pngdeband) ... バンド除去フィルタ付 24/32bit PNG to 15bit PNG コンバータ in Python
+
+Python ソフトウェア (ツール関連)
 - [rstx](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール in Python
 - [rsrx](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール in Python
+- [dim2xdf](https://github.com/tantanGH/dim2xdf/) ... X68k FDファイルイメージコンバータ in Python
 
 各種覚書
 - [X680x0実機とMacとの間でファイル転送する(MO編)](https://github.com/tantanGH/distribution/blob/main/x68k_Mac_data_exchange_MO.md)
