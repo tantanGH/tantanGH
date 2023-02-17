@@ -19,8 +19,9 @@ X680x0/Human68k ソフトウェア
 - [KEEPCHK.X](https://github.com/tantanGH/keepchk) ... 常駐プログラムが常駐しているかをチェックするツール
 - [ONTIME.X](https://github.com/tantanGH/ontime) ... アプリケーションの実行時間を計測するツール
 - [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
-- [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232C-USB クロス接続用ファイル受信ツール
-
+- [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール
+- [RSTX.X](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール
+- 
 MicroPython for X680x0 ソフトウェア
 - [sprite.py](#spritepy) ... 擬似3D宇宙空間移動デモ
 - [sprite2.py](#sprite2py) ... オブジェクト指向ボール移動デモ
@@ -35,7 +36,8 @@ Python ソフトウェア
 - [mov2gif](https://github.com/tantanGH/mov2gif/) ... MP4/AVI to アニメーションGIF コンバータ in Python
 - [png2sp](https://github.com/tantanGH/png2sp) ... 透過PNG to X68k スプライトデータ コンバータ in Python
 - [pngdeband](https://github.com/tantanGH/pngdeband) ... バンド除去フィルタ付 24/32bit PNG to 15bit PNG コンバータ in Python
-- [rstx](https://github.com/tantanGH/rstx) ... RS232C-USB クロス接続用ファイル送信ツール in Python
+- [rstx](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール in Python
+- [rsrx](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール in Python
 
 各種覚書
 - [X680x0実機とMacとの間でファイル転送する(MO編)](https://github.com/tantanGH/distribution/blob/main/x68k_Mac_data_exchange_MO.md)
