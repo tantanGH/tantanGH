@@ -36,7 +36,7 @@ MicroPython for X680x0 ソフトウェア
 - [maze.py](#mazepy) ... 巨大迷路作成デモ
 - [opmtest.py](#opmtestpy) ... MML記述＆FM音源再生デモ
 - [opmtest2.py](#opmtestpy) ... MML記述＆FM音源再生デモその2
-- [escseq.py](#escseqpy) ... エスケープシーケンスデモ
+- [snake.py](#snakepy) ... へびさん危機一髪ゲーム
 
 Python ソフトウェア (サウンド関連)
 - [wav2adpcm](https://github.com/tantanGH/wav2adpcm/) ... ローパスフィルタ付 WAV to X68k ADPCM コンバータ in Python
@@ -317,13 +317,13 @@ https://user-images.githubusercontent.com/121137457/218763491-fd5e4ff9-56fa-4186
 
 ---
 
-### escseq.py
+### snake.py
 
-エスケープシーケンス利用サンプル。エスケープシーケンスの詳細は Human68k のマニュアルの巻末に載っています。
+へび脱出ゲーム。エスケープシーケンスとDOSコールの利用サンプル。エスケープシーケンスの詳細は Human68k のマニュアルの巻末に載っています。
 
-<img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/escseq.gif'/>
+<img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/snake.gif'/>
 
-[escseq.py ソース](https://github.com/tantanGH/distribution/blob/main/escseq.py)
+[snake.py ソース](https://github.com/tantanGH/distribution/blob/main/snake.py)
 
 ---
 
