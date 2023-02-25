@@ -53,14 +53,11 @@ Python ソフトウェア (ツール関連)
 - [dim2xdf](https://github.com/tantanGH/dim2xdf/) ... X68k FDファイルイメージコンバータ in Python
 
 各種覚書
-- [X680x0実機とMacとの間でファイル転送する(MO編)](https://github.com/tantanGH/distribution/blob/main/x68k_Mac_data_exchange_MO.md)
-- [X680x0の1.2MBフォーマット3.5インチFDをMacでイメージ化する](https://github.com/tantanGH/xdfwrite/)
-- [X680x0 C言語でハイメモリを使う](https://github.com/tantanGH/distribution/blob/main/use_HIMEM_in_C.md)
-- [X680x0で384x256の画面モードを使う](https://github.com/tantanGH/distribution/blob/main/x680x0_screen_384x256.md)
-- [令和に再開するX680x0 C言語プログラミング](https://github.com/tantanGH/distribution/blob/main/x68k_c_programming_1.md)
-- [X680x0/WindowsユーザのためのPython導入ガイド](https://github.com/tantanGH/distribution/blob/main/windows_python_for_x68k.md)
 - [macOSユーザのためのX680x0エミュレータXEiJ活用ガイド(導入編)](https://zenn.dev/tantangh/articles/1b86b788812028)
 - [macOSユーザのためのX680x0クロス開発環境xdev68k導入ガイド](https://github.com/tantanGH/distribution/blob/main/INSTALL_xdev68k_M1Mac.md)
+- [X680x0実機とMacとの間でファイル転送する(MO編)](https://github.com/tantanGH/distribution/blob/main/x68k_Mac_data_exchange_MO.md)
+- [X680x0の1.2MBフォーマット3.5インチFDをMacでイメージ化する](https://github.com/tantanGH/xdfwrite/)
+- [X680x0/WindowsユーザのためのPython導入ガイド](https://github.com/tantanGH/distribution/blob/main/windows_python_for_x68k.md)
 - [X68030+060turboとのつきあい始め(導入編)](https://github.com/tantanGH/distribution/blob/main/X68030_with_060turbo.md)
 - [X68030+060turboとのつきあい始め(周辺機器編)](https://github.com/tantanGH/distribution/blob/main/X68030_with_060turbo_peripherals.md)
 
