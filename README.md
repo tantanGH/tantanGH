@@ -11,7 +11,7 @@ X680x0/Human68k ソフトウェア (サウンド関連)
 - [MDXVCAT.X](https://github.com/tantanGH/mdxvcat) ... MDX音色データ抽出ツール (MDX/ZMS/XC/BAS形式出力対応)
 
 X680x0/Human68k ソフトウェア (グラフィックス関連)
-- [PNGSCALE.X](#pngscalex) ... 拡大縮小回転デモ兼ベンチ (X68060 専用)
+- [PNGSCALE.X](#pngscalex) ... 拡大縮小回転デモ兼ベンチ (68030以上専用)
 - [PNGEX.X](#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応)
 - [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [BMPEX.X](#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
@@ -74,11 +74,14 @@ Python ソフトウェア (ツール関連)
 
 複数のPNG画像を拡大縮小回転させるデモアプリです。
 
-注意: 68060+ハイメモリ専用ソフトウェアです。ハイメモリは最低32MB必要です。また、060loadhigh.x を使ってアプケーション本体もハイメモリ上での実行を推奨します。
+注意: 68030/68040/68060+ハイメモリ専用ソフトウェアです。060turbo.sys/HIMEM.SYS/TS16DRVp.Xなどのハイメモリドライバが必須です。
 
 ![](https://github.com/tantanGH/distribution/raw/main/images/pngscale2a.gif)
 
-* [PNGSC010.ZIP](https://github.com/tantanGH/distribution/raw/main/PNGSC010.ZIP) PNGSCALE.X 0.1.0 実行ファイルおよびデータファイル
+* [PNGSC020.ZIP](https://github.com/tantanGH/distribution/raw/main/PNGSC020.ZIP) PNGSCALE.X 0.2.0 実行ファイルおよびデータファイル
+
+バージョン 0.2.0 ... X68030 + TS6BE16ハイメモリ + TS16DRVp.X 環境でも動くようにした
+バージョン 0.1.0 ... 初版 (060turbo専用)
 
 アーカイブに含まれるファイルをすべて一つのディレクトリにコピーし、カレントディレクトリをそのディレクトリにした上で `PNGSCALE.X` を実行します。
 
