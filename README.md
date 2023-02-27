@@ -37,6 +37,7 @@ MicroPython for X680x0 ソフトウェア
 - [opmtest.py](#opmtestpy) ... MML記述＆FM音源再生デモ
 - [opmtest2.py](#opmtestpy) ... MML記述＆FM音源再生デモその2
 - [snake.py](#snakepy) ... へびさん危機一髪ゲーム
+- [ujongpy.py](#ujongpypy) ... Micro麻雀デモ
 
 Python ソフトウェア (サウンド関連)
 - [wav2adpcm](https://github.com/tantanGH/wav2adpcm/) ... ローパスフィルタ付 WAV to X68k ADPCM コンバータ in Python
@@ -324,6 +325,16 @@ https://user-images.githubusercontent.com/121137457/218763491-fd5e4ff9-56fa-4186
 <img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/snake.gif'/>
 
 [snake.py ソース](https://github.com/tantanGH/distribution/blob/main/snake.py)
+
+---
+
+### ujongpy.py
+
+Micro麻雀 for MicroPython X680x0。配牌と山からツモって捨て牌だけできますw
+
+<img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/mahjong.gif'/>
+
+[ujongpy](https://github.com/tantanGH/ujongpy)
 
 ---
 
