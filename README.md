@@ -8,6 +8,7 @@ X680x0/Human68k ソフトウェア (サウンド関連)
 - [MP3EXP.X](https://github.com/tantanGH/mp3exp) ... ADPCM/PCM/MP3 プレーヤー
 - [MP3EX.X](https://github.com/tantanGH/mp3ex) ... MP3 to ADPCM/PCM コンバータ
 - [BPMCHK.X](https://github.com/tantanGH/bpmchk) ... S44/WAVデータ推定BPM算出ツール
+- [KMDGEN.X](https://github.com/tantanGH/kmdgen) ... KMDファイルテンプレート作成ツール
 - [MDXVV.X](https://github.com/tantanGH/mdxvv) ... MDXセレクタ＆プレーヤ＆音色データビュワー
 - [MDXVCAT.X](https://github.com/tantanGH/mdxvcat) ... MDX音色データ抽出ツール (MDX/ZMS/XC/BAS形式出力対応)
 
@@ -39,7 +40,6 @@ MicroPython for X680x0 ソフトウェア
 - [opmtest2.py](#opmtestpy) ... MML記述＆FM音源再生デモその2
 - [snake.py](#snakepy) ... へびさん危機一髪ゲーム
 - [ujongpy.py](#ujongpypy) ... Micro麻雀デモ
-- [kmdgen.py](https://github.com/tantanGH/mp3exp#kmd%E6%AD%8C%E8%A9%9E%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E4%BD%9C%E6%88%90%E3%83%84%E3%83%BC%E3%83%AB) ... KMDファイル作成支援ツール
 
 Python ソフトウェア (サウンド関連)
 - [wav2adpcm](https://github.com/tantanGH/wav2adpcm/) ... ローパスフィルタ付 WAV to X68k ADPCM コンバータ in Python
