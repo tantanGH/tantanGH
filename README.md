@@ -25,7 +25,7 @@ X680x0/Human68k ソフトウェア (ゲーム関連)
 X680x0/Human68k ソフトウェア (ツール関連)
 - [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール
 - [RSTX.X](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール
-- [FUNCOFF.R](#funcofr) ... ファンクションキー表示強制抑制常駐プログラム
+- [FUNCOFF.R](#funcoffr) ... ファンクションキー表示強制抑制常駐プログラム
 - [MPUTYPE.X](#mputypex) ... MPUタイプを判別して終了コードとして返すツール
 - [FONTSAVE.X](https://github.com/tantanGH/fontsave) ... 現在のフォントをフォントファイルに書き出すツール
 - [XDFWRITE.X](https://github.com/tantanGH/xdfwrite) ... XDFファイルをFDに書き込むツール
