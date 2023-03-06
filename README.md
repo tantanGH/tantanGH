@@ -5,7 +5,7 @@
 ## 目次
 
 X680x0/Human68k ソフトウェア (サウンド関連)
-- [MP3EXP.X](https://github.com/tantanGH/mp3exp) ... ADPCM/PCM/MP3 プレーヤー
+- [MP3EXP.X](https://github.com/tantanGH/mp3exp) ... ADPCM/PCM/WAV/MP3 プレーヤー
 - [MP3EX.X](https://github.com/tantanGH/mp3ex) ... MP3 to ADPCM/PCM コンバータ
 - [BPMCHK.X](https://github.com/tantanGH/bpmchk) ... S44/WAVデータ推定BPM算出ツール
 - [KMDGEN.X](https://github.com/tantanGH/kmdgen) ... KMDファイルテンプレート作成ツール
