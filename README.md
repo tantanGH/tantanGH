@@ -7,10 +7,10 @@
 X680x0/Human68k ソフトウェア (サウンド関連)
 - [MP3EXP.X](https://github.com/tantanGH/mp3exp) ... ADPCM/PCM/WAV/MP3 プレーヤー
 - [MP3EX.X](https://github.com/tantanGH/mp3ex) ... MP3 to ADPCM/PCM コンバータ
-- [KMDED.X](https://github.com/tantanGH/kmded) ... ステップ入力式KMD歌詞ファイルエディタ
+- [KMDED.X](https://github.com/tantanGH/kmded) ... ステップ入力式KMD歌詞データエディタ
 - [MDXVV.X](https://github.com/tantanGH/mdxvv) ... MDXセレクタ＆プレーヤ＆音色データビュワー
 - [MDXVCAT.X](https://github.com/tantanGH/mdxvcat) ... MDX音色データ抽出ツール (MDX/ZMS/XC/BAS形式出力対応)
-- [BPMCHK.X](https://github.com/tantanGH/bpmchk) ... S44/WAVデータ推定BPM算出ツール
+- [BPMCHK.X](https://github.com/tantanGH/bpmchk) ... S44/WAVデータBPM推定ツール
 
 X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [PNGSCALE.X](#pngscalex) ... 拡大縮小回転デモ兼ベンチ (68030以上専用)
