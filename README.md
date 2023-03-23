@@ -17,8 +17,8 @@ X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [PNGSCALE.X](#pngscalex) ... 拡大縮小回転デモ兼ベンチ (68030以上専用)
 - [JPEGEX.X](https://github.com/tantanGH/jpegex) ... JPEG画像ローダ (XEiJ拡張グラフィックス対応)
 - [PNGEX.X](https://github.com/tantanGH/pngex) ... PNG画像ローダ (XEiJ拡張グラフィックス対応)
+- [BMPEX.X](https://github.com/tantanGH/bmpex) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
 - [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
-- [BMPLEX.X](#bmplexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
 - [JPEGTRAN.X](https://github.com/tantanGH/jpegtran) ... JPEG最適化ツールの移植版
 - [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
 
@@ -124,41 +124,6 @@ X680x0用のGIF画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡�
     
 詳細は [gifex](https://github.com/tantanGH/gifex) へ。    
     
----
-
-### BMPLEX.X
-
-Arimac氏作の BMPL.X 0.33 を [XEiJ](https://stdkmd.net/xeij/) の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応させ、
-最大1024x1024x65536色(32768色)表示可能とする機能追加を行なったものです。
-XEiJ上で拡張グラフィックを有効にした場合にのみ効果がありますので、実機([X68000 Z](https://www.zuiki.co.jp/products/x68000z/)含む)や他のX68エミュレータでは正常動作しません。
-また、ツクモ電機製のグラフィックアクセラレータボードTS-6BGAにも対応していません。
-
-![](https://github.com/tantanGH/distribution/raw/main/images/bmp_demo1.png)
-
-* [BMPL032.LZH](https://github.com/tantanGH/distribution/raw/main/BMPL032.LZH) BMPL 0.32 オリジナルアーカイブ
-* [BMPL033.LZH](https://github.com/tantanGH/distribution/raw/main/BMPL033.LZH) BMPL 0.33 オリジナルアーカイブ (0.32に対するアップデート差分)
-* [BMEX0331.ZIP](https://github.com/tantanGH/distribution/raw/main/BMEX0331.ZIP) BMPLEX.X 0.33.1 実行ファイルおよびソース
-* [BMP768SP.ZIP](https://github.com/tantanGH/distribution/raw/main/BMP768SP.ZIP) 動作確認用横幅768pxのBMPファイル集 ([NovelAI](https://novelai.net/)で生成)
-
-拡張グラフィック画面を使った表示を行うには、新規に追加された `-e` オプションをコマンドラインに追加してください。このオプションを付けない場合は従来通りの動作となります。
-
-    BMPLEX.X -e -c -n -v70 1220_23_nai.bmp
-
-また、もう一つ新規に追加された `-z` オプションを使うと、与えたBMPファイルリスト(ワイルドカード含む)の中からランダムに一枚だけ表示します。
-
-    BMPLEX.X -e -c -n -v70 -z D:\BMP\*.BMP
-
-BMPL.X / BMPLEX.X ともに非圧縮のBMPファイルにのみ対応しています。任意の画像ファイルから非圧縮のBMPを作成するには
-Python上で [Pillow](https://pillow.readthedocs.io/en/stable/) ライブラリを使うのが手軽です。
-
-    from PIL import Image
-    Image.open('hoge.jpg').resize((768,432)).convert('RGB').save('hoge.bmp')
-
-おまけとして、ファイラーSTFでの拡張子設定サンプルです。単にリターンを押すと100%輝度全画面表示。SHIFT,CTRLを押しながらリターンを押すと背景差し替えのみ(それぞれ輝度85%,75%)。他のファイラでも似たような設定ができると思います。ご参考。
-
-    .bmp    ---------sfp-   bmplex -e -n -k -r %p%
-            -t--------fp-   bmplex -e -n -v85 %p%
-            -c--------fp-   bmplex -e -n -v75 %p%
 ---
 
 ### funcoff.r
