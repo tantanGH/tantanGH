@@ -16,7 +16,7 @@ X680x0/Human68k ソフトウェア (サウンド関連)
 X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [PNGSCALE.X](#pngscalex) ... 拡大縮小回転デモ兼ベンチ (68030以上専用)
 - [JPEGEX.X](https://github.com/tantanGH/jpegex) ... JPEG画像ローダ (XEiJ拡張グラフィックス対応)
-- [PNGEX.X](#pngexx) ... PNG画像ローダ (XEiJ拡張グラフィックス対応)
+- [PNGEX.X](https://github.com/tantanGH/pngex) ... PNG画像ローダ (XEiJ拡張グラフィックス対応)
 - [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [BMPEX.X](#bmpexx) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
 - [JPEGTRAN.X](https://github.com/tantanGH/jpegtran) ... JPEG最適化ツールの移植版
@@ -109,16 +109,6 @@ X680x0用のブロック崩しもどきゲームです。
 ![](https://github.com/tantanGH/pptbreak/raw/main/images/17a.gif)
 
 詳細は[PPT Breaker for X680x0](https://github.com/tantanGH/pptbreak/)へ。
-
----
-
-### PNGEX.X
-
-X680x0用のPNG画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応しており、最大1024x1024x32768色の表示が可能です。ハイメモリをバッファとして利用可能です。
-
-![](https://github.com/tantanGH/distribution/raw/main/images/png_demo1.png)
-
-詳細は[pngex](https://github.com/tantanGH/pngex)へ。
 
 ---
 
