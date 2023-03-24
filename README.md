@@ -18,6 +18,7 @@ X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [PNGEX.X](https://github.com/tantanGH/pngex) ... PNG画像ローダ (XEiJ拡張グラフィックス対応)
 - [BMPEX.X](https://github.com/tantanGH/bmpex) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
 - [GIFEX.X](https://github.com/tantanGH/gifex) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
+- [JPEG2BMP.X](https://github.com/tantanGH/jpeg2bmp) ... JPEG to BMP コンバータ
 - [JPEGTRAN.X](https://github.com/tantanGH/jpegtran) ... JPEG最適化ツールの移植版
 - [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
 - [PNGSCALE.X](#pngscalex) ... 拡大縮小回転デモ兼ベンチ (68030以上専用)
