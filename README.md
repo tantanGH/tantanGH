@@ -17,7 +17,7 @@ X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [JPEGEX.X](https://github.com/tantanGH/jpegex) ... JPEG画像ローダ (XEiJ拡張グラフィックス対応)
 - [PNGEX.X](https://github.com/tantanGH/pngex) ... PNG画像ローダ (XEiJ拡張グラフィックス対応)
 - [BMPEX.X](https://github.com/tantanGH/bmpex) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
-- [GIFEX.X](#gifexx) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
+- [GIFEX.X](https://github.com/tantanGH/gifex) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [JPEGTRAN.X](https://github.com/tantanGH/jpegtran) ... JPEG最適化ツールの移植版
 - [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
 - [PNGSCALE.X](#pngscalex) ... 拡大縮小回転デモ兼ベンチ (68030以上専用)
@@ -109,20 +109,6 @@ X680x0用のブロック崩しもどきゲームです。
 ![](https://github.com/tantanGH/pptbreak/raw/main/images/17a.gif)
 
 詳細は[PPT Breaker for X680x0](https://github.com/tantanGH/pptbreak/)へ。
-
----
-
-### GIFEX.X
-
-X680x0用のGIF画像ローダです。[XEiJ](https://stdkmd.net/xeij/)の[拡張グラフィック画面](https://stdkmd.net/xeij/feature.htm#extendedgraphic)に対応しており、最大1024x1024x32768色の表示が可能です。ハイメモリをバッファとして利用可能です。
-
-アニメーションにも対応していますが、表示タイミングは厳密ではありません。
-
-![](https://github.com/tantanGH/distribution/raw/main/images/gif_demo1a.gif)
-
-アニメーションGIFは拙作 [mov2gif](https://github.com/tantanGH/mov2gif/) などで動画ファイルを変換して作ることができます。
-    
-詳細は [gifex](https://github.com/tantanGH/gifex) へ。    
     
 ---
 
