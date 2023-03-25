@@ -13,10 +13,11 @@ X680x0/Human68k ソフトウェア (サウンド関連)
 - [MDXVCAT.X](https://github.com/tantanGH/mdxvcat) ... MDX音色データ抽出ツール (MDX/ZMS/XC/BAS形式出力対応)
 
 X680x0/Human68k ソフトウェア (グラフィックス関連)
-- [JPEGEX.X](https://github.com/tantanGH/jpegex) ... JPEG画像ローダ (XEiJ拡張グラフィックス対応)
 - [PNGEX.X](https://github.com/tantanGH/pngex) ... PNG画像ローダ (XEiJ拡張グラフィックス対応)
 - [BMPEX.X](https://github.com/tantanGH/bmpex) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
+- [JPEGEX.X](https://github.com/tantanGH/jpegex) ... JPEG画像ローダ (XEiJ拡張グラフィックス対応)
 - [GIFEX.X](https://github.com/tantanGH/gifex) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
+- [PNG2BMP.X](https://github.com/tantanGH/png2bmp) ... PNG to BMP コンバータ
 - [JPEG2BMP.X](https://github.com/tantanGH/jpeg2bmp) ... JPEG to BMP コンバータ
 - [JPEGTRAN.X](https://github.com/tantanGH/jpegtran) ... JPEG最適化ツールの移植版
 - [PNGSCALE.X](#pngscalex) ... 拡大縮小回転デモ兼ベンチ (68030以上専用)
