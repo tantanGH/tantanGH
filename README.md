@@ -11,7 +11,6 @@ X680x0/Human68k ソフトウェア (サウンド関連)
 - [KMDED.X](https://github.com/tantanGH/kmded) ... ステップ入力式KMD歌詞データエディタ
 - [MDXVV.X](https://github.com/tantanGH/mdxvv) ... MDXセレクタ＆プレーヤ＆音色データビュワー
 - [MDXVCAT.X](https://github.com/tantanGH/mdxvcat) ... MDX音色データ抽出ツール (MDX/ZMS/XC/BAS形式出力対応)
-- [BPMCHK.X](https://github.com/tantanGH/bpmchk) ... S44/WAVデータBPM推定ツール
 
 X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [JPEGEX.X](https://github.com/tantanGH/jpegex) ... JPEG画像ローダ (XEiJ拡張グラフィックス対応)
@@ -20,7 +19,6 @@ X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [GIFEX.X](https://github.com/tantanGH/gifex) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [JPEG2BMP.X](https://github.com/tantanGH/jpeg2bmp) ... JPEG to BMP コンバータ
 - [JPEGTRAN.X](https://github.com/tantanGH/jpegtran) ... JPEG最適化ツールの移植版
-- [GJ0.X](#gj0x) ... XEiJ拡張グラフィックス簡易操作ツール
 - [PNGSCALE.X](#pngscalex) ... 拡大縮小回転デモ兼ベンチ (68030以上専用)
 
 X680x0/Human68k ソフトウェア (ゲーム関連)
