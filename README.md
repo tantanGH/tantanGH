@@ -14,8 +14,8 @@ X680x0/Human68k ソフトウェア (サウンド関連)
 
 X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [PNGEX.X](https://github.com/tantanGH/pngex) ... PNG画像ローダ (XEiJ拡張グラフィックス対応)
-- [BMPEX.X](https://github.com/tantanGH/bmpex) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
 - [JPEGEX.X](https://github.com/tantanGH/jpegex) ... JPEG画像ローダ (XEiJ拡張グラフィックス対応)
+- [BMPEX.X](https://github.com/tantanGH/bmpex) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
 - [GIFEX.X](https://github.com/tantanGH/gifex) ... GIF画像ローダ (XEiJ拡張グラフィックス対応, ハイメモリ対応, アニメーション対応)
 - [PNG2BMP.X](https://github.com/tantanGH/png2bmp) ... PNG to BMP コンバータ
 - [JPEG2BMP.X](https://github.com/tantanGH/jpeg2bmp) ... JPEG to BMP コンバータ
