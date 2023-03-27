@@ -26,6 +26,7 @@ X680x0/Human68k ソフトウェア (ゲーム関連)
 - [PPTBREAK.X](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム
 
 X680x0/Human68k ソフトウェア (ツール関連)
+- [TXVIEW.X](https://github.com/tantanGH/txview) ... PCM8PP.Xを妨げないテキストビュワー
 - [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール
 - [RSTX.X](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール
 - [FUNCOFF.R](#funcoffr) ... ファンクションキー表示強制抑制常駐プログラム
