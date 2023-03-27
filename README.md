@@ -67,7 +67,6 @@ Python ソフトウェア (ツール関連)
 - [X680x0の1.2MBフォーマット3.5インチFDをMacでイメージ化する](https://github.com/tantanGH/xdfwrite/)
 - [X680x0/WindowsユーザのためのPython導入ガイド](https://github.com/tantanGH/distribution/blob/main/windows_python_for_x68k.md)
 - [X68030+060turboとのつきあい始め(導入編)](https://github.com/tantanGH/distribution/blob/main/X68030_with_060turbo.md)
-- [X68030+060turboとのつきあい始め(周辺機器編)](https://github.com/tantanGH/distribution/blob/main/X68030_with_060turbo_peripherals.md)
 
 ---
 
