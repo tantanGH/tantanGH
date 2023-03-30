@@ -190,23 +190,6 @@ MPU|終了コード
 
 ---
 
-### s44shuff.py
-
-[MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 上で動く MP3EXP.X 用シャッフルプレーヤです。
-
-[s44shuff.py ソース](https://github.com/tantanGH/distribution/blob/main/s44shuff.py)
-
-MicroPython for X680x0 0.8以上に対応しています。0.7以下だと日本語ファイル名・フォルダ名が正しく扱えません。
-
-    micropython s44shuff.py [repeat]
-
-として実行するとカレントディレクトリにある S44/A44 ファイルをシャッフルして MP3EXP.X で順次演奏します。
-引数で何リピートするかを与えることもできます。デフォルトは5です。
-
-MP3EXP.X を ESC または Q で抜けると、s44shuff.py も終了します。
-
----
-
 ### sprite.py
 
 HAS.X / HIOCS.X で超高名なX68kレジェンドの一人、yunk氏が令和に送り出す [MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 
@@ -280,6 +263,23 @@ Micro麻雀 for MicroPython X680x0。配牌と山からツモって捨て牌だ�
 <img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/mahjong.gif'/>
 
 [ujongpy](https://github.com/tantanGH/ujongpy)
+
+---
+
+### s44shuff.py
+
+[MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 上で動く MP3EXP.X 用シャッフルプレーヤです。
+
+[s44shuff.py ソース](https://github.com/tantanGH/distribution/blob/main/s44shuff.py)
+
+MicroPython for X680x0 0.8以上に対応しています。0.7以下だと日本語ファイル名・フォルダ名が正しく扱えません。
+
+    micropython s44shuff.py [repeat]
+
+として実行するとカレントディレクトリにある S44/A44 ファイルをシャッフルして MP3EXP.X で順次演奏します。
+引数で何リピートするかを与えることもできます。デフォルトは5です。
+
+MP3EXP.X を ESC または Q で抜けると、s44shuff.py も終了します。
 
 ---
 
