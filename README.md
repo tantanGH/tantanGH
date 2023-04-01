@@ -83,7 +83,7 @@ Python ソフトウェア (ツール関連)
 
 ![](https://github.com/tantanGH/distribution/raw/main/images/pngscale2a.gif)
 
-* [PNGSC020.ZIP](https://github.com/tantanGH/distribution/raw/main/PNGSC020.ZIP) PNGSCALE.X 0.2.0 実行ファイルおよびデータファイル
+* [PNGSC020.ZIP](https://github.com/tantanGH/distribution/raw/main/archive/PNGSC020.ZIP) PNGSCALE.X 0.2.0 実行ファイルおよびデータファイル
 
 - バージョン 0.2.0 ... X68030 + TS6BE16ハイメモリ + TS16DRVp.X 環境でも動くようにした
 - バージョン 0.1.0 ... 初版 (060turbo専用)
@@ -122,7 +122,7 @@ Human68kのコンソール画面の下部に表示されるファンクション
 
 なお、常駐したままで機能を有効化したり無効化したり切り替えることもできます。どうしてもファンクションキー表示が欲しい場合で一時的に有効化する時などに使えます。
 
-* [FNCOF200.ZIP](https://github.com/tantanGH/distribution/raw/main/FNCOF200.ZIP) funcoff.r 2.00 実行ファイル
+* [FNCOF200.ZIP](https://github.com/tantanGH/distribution/raw/main/archive/FNCOF200.ZIP) funcoff.r 2.00 実行ファイル
 
 ファンクションキー表示を抑制するには、パラメータ `on` をつけて実行します。常駐していない場合は常駐します。なにもパラメータを付けない場合は `on` と同じ動作となります。
 
@@ -147,7 +147,7 @@ X68030 に装着されているMPUの種別を `IOCS __SYS_STAT` で判別し、
 ROM IOCS v1.3 以上が前提のため、事実上X68030シリーズ専用です。かつ68060の場合は`060turbo.sys`の導入が必須です。
 なお、68040については`040SYSpatch.x`の導入で対応できるのかは確認しておらず不明です。
 
-* [MPUTYPE.ZIP](https://github.com/tantanGH/distribution/raw/main/MPUTYPE.ZIP) MPUTYPE.X 実行ファイル
+* [MPUTYPE.ZIP](https://github.com/tantanGH/distribution/raw/main/archive/MPUTYPE.ZIP) MPUTYPE.X 実行ファイル
 
 MPUの種類と終了コードの対応
 MPU|終了コード
@@ -198,7 +198,7 @@ HAS.X / HIOCS.X で超高名なX68kレジェンドの一人、yunk氏が令和�
 
 <img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/star2a.gif'/>
 
-[sprite.py ソース](https://github.com/tantanGH/distribution/blob/main/sprite.py)
+[sprite.py ソース](https://github.com/tantanGH/distribution/blob/main/micropython/sprite.py)
 
 ジョイスティックの上下左右で移動、Bボタンで加速です。シフトキーで終了します。
 
@@ -208,7 +208,7 @@ HAS.X / HIOCS.X で超高名なX68kレジェンドの一人、yunk氏が令和�
 
 <img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/ball2.gif'/>
 
-[sprite2.py ソース](https://github.com/tantanGH/distribution/blob/main/sprite2.py)
+[sprite2.py ソース](https://github.com/tantanGH/distribution/blob/main/micropython/sprite2.py)
 
 なるべくオブジェクト指向風に書いたスプライトサンプル。シフトキーで終了します。
 
@@ -220,7 +220,7 @@ HAS.X / HIOCS.X で超高名なX68kレジェンドの一人、yunk氏が令和�
 
 <img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/maze2a.gif'/>
 
-[maze.py ソース](https://github.com/tantanGH/distribution/blob/main/maze.py)
+[maze.py ソース](https://github.com/tantanGH/distribution/blob/main/micropython/maze.py)
 
 巨大迷路作成の様子を眺める環境ソフト(スクリーンセイバー？)です。シフトキーで終了します。
 
@@ -232,7 +232,7 @@ MicroPython for X680x0 で MMLを記述しFM音源の曲を演奏します。OPM
 
 https://user-images.githubusercontent.com/121137457/218295954-08157ce0-957b-43a0-be36-15bb10993f4d.mp4
 
-[opmtest.py ソース](https://github.com/tantanGH/distribution/blob/main/opmtest.py)
+[opmtest.py ソース](https://github.com/tantanGH/distribution/blob/main/micropython/opmtest.py)
 
 ---
 
@@ -242,7 +242,7 @@ OPMDRV Pythonクラスを定義して扱いやすくした。コンストラク�
 
 https://user-images.githubusercontent.com/121137457/218763491-fd5e4ff9-56fa-4186-8c6b-fe5ba3f312e4.mp4
 
-[opmtest2.py ソース](https://github.com/tantanGH/distribution/blob/main/opmtest2.py)
+[opmtest2.py ソース](https://github.com/tantanGH/distribution/blob/main/micropython/opmtest2.py)
 
 
 ---
@@ -253,7 +253,7 @@ https://user-images.githubusercontent.com/121137457/218763491-fd5e4ff9-56fa-4186
 
 <img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/snake.gif'/>
 
-[snake.py ソース](https://github.com/tantanGH/distribution/blob/main/snake.py)
+[snake.py ソース](https://github.com/tantanGH/distribution/blob/main/micropython/snake.py)
 
 ---
 
@@ -271,7 +271,7 @@ Micro麻雀 for MicroPython X680x0。配牌と山からツモって捨て牌だ�
 
 [MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 上で動く MP3EXP.X 用シャッフルプレーヤです。
 
-[s44shuff.py ソース](https://github.com/tantanGH/distribution/blob/main/s44shuff.py)
+[s44shuff.py ソース](https://github.com/tantanGH/distribution/blob/main/micropython/s44shuff.py)
 
 MicroPython for X680x0 0.8以上に対応しています。0.7以下だと日本語ファイル名・フォルダ名が正しく扱えません。
 
