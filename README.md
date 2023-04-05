@@ -63,6 +63,7 @@ Python ソフトウェア (ツール関連)
 - [dim2xdf](https://github.com/tantanGH/dim2xdf/) ... X68k FDファイルイメージコンバータ in Python
 
 各種覚書
+- [X68000ZとRaspberryPiでRS-MIDI再生する構成例](https://github.com/tantanGH/distribution/blob/main/x68000z/uart-midi-raspi.md)
 - [macOSユーザのためのX680x0エミュレータXEiJ活用ガイド(導入編)](https://zenn.dev/tantangh/articles/1b86b788812028)
 - [macOSユーザのためのX680x0クロス開発環境xdev68k導入ガイド](https://github.com/tantanGH/distribution/blob/main/INSTALL_xdev68k_M1Mac.md)
 - [X680x0実機とMacとの間でファイル転送する(MO編)](https://github.com/tantanGH/distribution/blob/main/x68k_Mac_data_exchange_MO.md)
