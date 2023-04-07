@@ -33,7 +33,7 @@ X680x0/Human68k ソフトウェア (ツール関連)
 - [DIM2XDF.X](https://github.com/tantanGH/dim2xdf) ... DIM to XDF コンバータ
 - [XDFWRITE.X](https://github.com/tantanGH/xdfwrite) ... XDFファイルをFDに書き込むツール
 - [REBOOT.X](https://github.com/tantanGH/reboot) ... ソフトリセットをかけるツール
-- [EJECT.X](https://github.com/tantanGH/eject) ... ソフトウェア的にFDをイジェクトするツール
+- [FDEJECT.X](https://github.com/tantanGH/fdeject) ... ソフトウェア的にFDをイジェクトするツール
 - [FUNCOFF.R](#funcoffr) ... ファンクションキー表示強制抑制常駐プログラム
 - [MPUTYPE.X](#mputypex) ... MPUタイプを判別して終了コードとして返すツール
 - [FONTSAVE.X](https://github.com/tantanGH/fontsave) ... 現在のフォントをフォントファイルに書き出すツール
