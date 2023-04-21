@@ -24,7 +24,7 @@ X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [PNGSCALE.X](#pngscalex) ... PNG拡大縮小回転デモ兼ベンチ (68030以上専用)
 
 X680x0/Human68k ソフトウェア (ゲーム関連)
-- [PPTBREAK.X](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム
+- [PPTBREAK.X](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (X68000Zも対応)
 
 X680x0/Human68k ソフトウェア (ツール関連)
 - [TXVIEW.X](https://github.com/tantanGH/txview) ... PCM8PP.Xを妨げないテキストビュワー
