@@ -41,7 +41,6 @@ X680x0/Human68k ソフトウェア (ツール関連)
 - [ONTIME.X](https://github.com/tantanGH/ontime) ... アプリケーションの実行時間を計測するツール
 
 MicroPython for X680x0 ソフトウェア
-- [s44shuff.py](#s44shuffpy) ... MP3EXP.X用S44/A44シャッフルプレーヤ
 - [sprite.py](#spritepy) ... 擬似3D宇宙空間移動デモ
 - [sprite2.py](#sprite2py) ... オブジェクト指向ボール移動デモ
 - [maze.py](#mazepy) ... 巨大迷路作成デモ
@@ -268,23 +267,6 @@ Micro麻雀 for MicroPython X680x0。配牌と山からツモって捨て牌だ�
 <img width='600' src='https://github.com/tantanGH/distribution/raw/main/images/mahjong.gif'/>
 
 [ujongpy](https://github.com/tantanGH/ujongpy)
-
----
-
-### s44shuff.py
-
-[MicroPython for X680x0](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k) 上で動く MP3EXP.X 用シャッフルプレーヤです。
-
-[s44shuff.py ソース](https://github.com/tantanGH/distribution/blob/main/micropython/s44shuff.py)
-
-MicroPython for X680x0 0.8以上に対応しています。0.7以下だと日本語ファイル名・フォルダ名が正しく扱えません。
-
-    micropython s44shuff.py [repeat]
-
-として実行するとカレントディレクトリにある S44/A44 ファイルをシャッフルして MP3EXP.X で順次演奏します。
-引数で何リピートするかを与えることもできます。デフォルトは5です。
-
-MP3EXP.X を ESC または Q で抜けると、s44shuff.py も終了します。
 
 ---
 
