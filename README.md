@@ -7,7 +7,6 @@
 X680x0/Human68k ソフトウェア (サウンド関連)
 - [S44EXP.X](https://github.com/tantanGH/s44exp) ... KMD歌詞表示対応 ADPCM/PCM/WAV プレーヤー
 - [S44BGP.X](https://github.com/tantanGH/s44bgp) ... ハイメモリ常駐型バックグラウンドPCMプレーヤー for Mercury-UNIT
-- [MP3EXP.X](https://github.com/tantanGH/mp3exp) ... KMD歌詞表示対応 ADPCM/PCM/WAV/MP3 プレーヤー
 - [MP3CONV.X](https://github.com/tantanGH/mp3conv) ... MP3 to ADPCM/PCM コンバータ
 - [KMDED.X](https://github.com/tantanGH/kmded) ... ステップ入力式KMD歌詞データエディタ
 - [MDXVV.X](https://github.com/tantanGH/mdxvv) ... MDXセレクタ＆プレーヤ＆音色データビュワー
