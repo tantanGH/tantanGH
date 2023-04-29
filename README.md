@@ -10,7 +10,6 @@ X680x0/Human68k ソフトウェア (サウンド関連)
 - [MP3CONV.X](https://github.com/tantanGH/mp3conv) ... MP3 to ADPCM/PCM コンバータ
 - [KMDED.X](https://github.com/tantanGH/kmded) ... ステップ入力式KMD歌詞データエディタ
 - [MDXVV.X](https://github.com/tantanGH/mdxvv) ... MDXセレクタ＆プレーヤ＆音色データビュワー
-- [MDXVCAT.X](https://github.com/tantanGH/mdxvcat) ... MDX音色データ抽出ツール (MDX/ZMS/XC/BAS形式出力対応)
 
 X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [JPEGEX.X](https://github.com/tantanGH/jpegex) ... JPEG画像ローダ (XEiJ拡張グラフィックス対応)
@@ -26,18 +25,17 @@ X680x0/Human68k ソフトウェア (ゲーム関連)
 - [PPTBREAK.X](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (X68000Zも対応)
 
 X680x0/Human68k ソフトウェア (ツール関連)
-- [TXVIEW.X](https://github.com/tantanGH/txview) ... PCM8PP.Xを妨げないテキストビュワー
 - [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール
 - [RSTX.X](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール
 - [XDFARC.X](https://github.com/tantanGH/xdfarc) ... ファイル・ディレクトリからXDFファイルを直接作るアーカイバ
 - [XDFWRITE.X](https://github.com/tantanGH/xdfwrite) ... XDFファイルをFDに書き込むツール
 - [DIM2XDF.X](https://github.com/tantanGH/dim2xdf) ... DIM to XDF コンバータ
+- [TXVIEW.X](https://github.com/tantanGH/txview) ... PCM8PP.Xを妨げないテキストビュワー
 - [REBOOT.X](https://github.com/tantanGH/reboot) ... ソフトリセットをかけるツール
 - [FDEJECT.X](https://github.com/tantanGH/fdeject) ... ソフトウェア的にFDをイジェクトするツール
 - [FUNCOFF.R](#funcoffr) ... ファンクションキー表示強制抑制常駐プログラム
 - [MPUTYPE.X](#mputypex) ... MPUタイプを判別して終了コードとして返すツール
 - [FONTSAVE.X](https://github.com/tantanGH/fontsave) ... 現在のフォントをフォントファイルに書き出すツール
-- [KEEPCHK.X](https://github.com/tantanGH/keepchk) ... 常駐プログラムが常駐しているかをチェックするツール
 - [ONTIME.X](https://github.com/tantanGH/ontime) ... アプリケーションの実行時間を計測するツール
 
 MicroPython for X680x0 ソフトウェア
