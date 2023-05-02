@@ -57,6 +57,7 @@ Python ソフトウェア (グラフィックス・ムービー関連)
 - [mov2gif](https://github.com/tantanGH/mov2gif/) ... MP4/AVI to アニメーションGIF コンバータ in Python
 - [png2sp](https://github.com/tantanGH/png2sp) ... 透過PNG to X68k スプライトデータ コンバータ in Python
 - [pngdeband](https://github.com/tantanGH/pngdeband) ... バンド除去フィルタ付 24/32bit PNG to 15bit PNG コンバータ in Python
+- [png2grm](https://github.com/tantanGH/png2grm) ... PNG to X68k GVRAM形式データ コンバータ in Python
 
 Python ソフトウェア (ツール関連)
 - [rstx](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール in Python
