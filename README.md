@@ -22,8 +22,8 @@ X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [PNGSCALE.X](#pngscalex) ... PNG拡大縮小回転デモ兼ベンチ (68030以上専用)
 
 X680x0/Human68k ソフトウェア (ゲーム関連)
-- [PPTBREAK.X](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (X68000Zも対応)
-- [ureversi.py](https://github.com/tantanGH/ureversi) ... MicroPython版リバーシ (X68000Zも対応)
+- [PPT Breaker](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (X68000Zも対応)
+- [Micro Reversi](https://github.com/tantanGH/ureversi) ... MicroPython版リバーシ (X68000Zも対応)
 
 X680x0/Human68k ソフトウェア (ツール関連)
 - [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール
@@ -40,7 +40,7 @@ X680x0/Human68k ソフトウェア (ツール関連)
 - [ONTIME.X](https://github.com/tantanGH/ontime) ... アプリケーションの実行時間を計測するツール
 
 MicroPython for X680x0 ソフトウェア
-- [ureversi.py](https://github.com/tantanGH/ureversi) ... MicroPython版リバーシ (X68000Zも対応)
+- [Micro Reversi](https://github.com/tantanGH/ureversi) ... MicroPython版リバーシ (X68000Zも対応)
 - [sprite.py](#spritepy) ... 擬似3D宇宙空間移動デモ
 - [sprite2.py](#sprite2py) ... オブジェクト指向ボール移動デモ
 - [maze.py](#mazepy) ... 巨大迷路作成デモ
