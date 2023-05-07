@@ -32,6 +32,7 @@ X680x0/Human68k ソフトウェア (ツール関連)
 - [XDFWRITE.X](https://github.com/tantanGH/xdfwrite) ... XDFファイルをFDに書き込むツール
 - [DIM2XDF.X](https://github.com/tantanGH/dim2xdf) ... DIM to XDF コンバータ
 - [TXVIEW.X](https://github.com/tantanGH/txview) ... PCM8PP.Xを妨げないテキストビュワー
+- [CHRAMDRV.X](https://github.com/tantanGH/chramdrv) ... 最初に見つかったRAMDISKにカレントドライブを移すツール
 - [REBOOT.X](https://github.com/tantanGH/reboot) ... ソフトリセットをかけるツール
 - [FDEJECT.X](https://github.com/tantanGH/fdeject) ... ソフトウェア的にFDをイジェクトするツール
 - [FUNCOFF.R](#funcoffr) ... ファンクションキー表示強制抑制常駐プログラム
