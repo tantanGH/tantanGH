@@ -5,6 +5,7 @@
 ## 目次
 
 X680x0/Human68k ソフトウェア (サウンド関連)
+- [PIREVERB.X](https://github.com/tantanGH/pireverb) ... ras68k-ext専用の常駐型Reverb typeコントローラ
 - [UMT32PI.X](https://github.com/tantanGH/umt32pi) ... mt32-pi と GS MIDI音源の簡易操作ツール
 - [S44EXP.X](https://github.com/tantanGH/s44exp) ... KMD歌詞表示対応 ADPCM/PCM/WAV プレーヤー
 - [S44BGP.X](https://github.com/tantanGH/s44bgp) ... ハイメモリ常駐型バックグラウンドPCMプレーヤー for Mercury-UNIT
