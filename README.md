@@ -52,6 +52,9 @@ MicroPython for X680x0 ソフトウェア
 - [snake.py](#snakepy) ... へびさん危機一髪ゲーム
 - [ujongpy.py](#ujongpypy) ... Micro麻雀デモ
 
+Raspberry Pi ソフトウェア (サウンド関連)
+- [s44rasp)(https://github.com/tantanGH/s44rasp) ... X68K ADPCM/PCM/WAV プレーヤ for Raspberry Pi with OLED
+
 Python ソフトウェア (サウンド関連)
 - [wav2adpcm](https://github.com/tantanGH/wav2adpcm/) ... ローパスフィルタ付 WAV to X68k ADPCM コンバータ in Python
 
