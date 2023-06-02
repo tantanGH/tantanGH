@@ -54,6 +54,7 @@ MicroPython for X680x0 ソフトウェア
 
 Raspberry Pi ソフトウェア (サウンド関連)
 - [s44rasp](https://github.com/tantanGH/s44rasp) ... X68K ADPCM/PCM/WAV プレーヤ for Raspberry Pi with OLED
+- [a44enc](https://github.com/tantanGH/a44enc) ... S44/WAV to A44 コンバータ for Raspberry Pi / Linux / macOS
 
 Python ソフトウェア (サウンド関連)
 - [wav2adpcm](https://github.com/tantanGH/wav2adpcm/) ... ローパスフィルタ付 WAV to X68k ADPCM コンバータ in Python
