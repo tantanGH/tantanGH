@@ -23,6 +23,7 @@ X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [JPEGTRAN.X](https://github.com/tantanGH/jpegtran) ... JPEG最適化ツールの移植版
 - [PNG2BMP.X](https://github.com/tantanGH/png2bmp) ... PNG to BMP コンバータ
 - [PNGSCALE.X](#pngscalex) ... PNG拡大縮小回転デモ兼ベンチ (68030以上専用)
+- [MCSEX.X](https://github.com/tantanGH/mcsex) ... MACS動画ローダ (ハイメモリ専用, VDISK対応)
 
 X680x0/Human68k ソフトウェア (ゲーム関連)
 - [PPT Breaker](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (X68000Zも対応)
