@@ -57,7 +57,7 @@ MicroPython for X680x0 ソフトウェア
 - [ujongpy.py](#ujongpypy) ... Micro麻雀デモ
 
 Raspberry Pi ソフトウェア (サウンド関連)
-- [s44rasp](https://github.com/tantanGH/s44rasp) ... X68K ADPCM/PCM/WAV プレーヤ for Raspberry Pi with OLED
+- [s44rasp](https://github.com/tantanGH/s44rasp) ... X68K ADPCM/PCM/WAV/MCS プレーヤ for Raspberry Pi with OLED
 - [a44enc](https://github.com/tantanGH/a44enc) ... S44/WAV to A44 コンバータ for Raspberry Pi / Linux / macOS
 
 Python ソフトウェア (サウンド関連)
@@ -72,6 +72,7 @@ Python ソフトウェア (グラフィックス・ムービー関連)
 - [png2grm](https://github.com/tantanGH/png2grm) ... PNG to X68k GVRAM形式データ コンバータ in Python
 
 Python ソフトウェア (ツール関連)
+- [serialudp](https://github.com/tantanGH/serialudp) ... UDP/IP上でRS232C通信を行う
 - [rstx](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール in Python
 - [rsrx](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール in Python
 - [dim2xdf](https://github.com/tantanGH/dim2xdf/) ... X68k FDファイルイメージコンバータ in Python
