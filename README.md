@@ -5,7 +5,8 @@
 ## 目次
 
 X680x0/Human68k ソフトウェア (サウンド関連)
-- [S44EXP.X](https://github.com/tantanGH/s44exp) ... KMD歌詞表示対応 ADPCM/PCM/WAV プレーヤー
+- [S44SEL.X](https://github.com/tantanGH/s44sel) ... KMD歌詞表示対応 S44/A44/WAV/PCM セレクタ
+- [S44EXP.X](https://github.com/tantanGH/s44exp) ... KMD歌詞表示対応 S44/A44/WAV/PCM プレーヤー
 - [S44BGP.X](https://github.com/tantanGH/s44bgp) ... ハイメモリ常駐型バックグラウンドPCMプレーヤー for Mercury-UNIT
 - [S44RASP.X](https://github.com/tantanGH/s44rasp-x68k) ... KMD歌詞表示対応 S44/A44 プレーヤーシステム with Raspberry Pi (X68000Zも対応)
 - [KMDED.X](https://github.com/tantanGH/kmded) ... ステップ入力式KMD歌詞データエディタ
@@ -14,9 +15,11 @@ X680x0/Human68k ソフトウェア (サウンド関連)
 - [PIREVERB.X](https://github.com/tantanGH/pireverb) ... ras68k-ext専用の常駐型Reverb typeコントローラ
 - [UMT32PI.X](https://github.com/tantanGH/umt32pi) ... mt32-pi と GS MIDI音源の簡易操作ツール
 
-X680x0/Human68k ソフトウェア (グラフィックス関連)
+X680x0/Human68k ソフトウェア (ムービー関連)
 - [MCSEL.X](https://github.com/tantanGH/mcsel) ... MACS動画セレクタ兼ローダ (ハイメモリ専用, VDISK対応)
 - [MCSEX.X](https://github.com/tantanGH/mcsex) ... MACS動画ローダ (ハイメモリ専用, VDISK対応)
+
+X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [JPEGEX.X](https://github.com/tantanGH/jpegex) ... JPEG画像ローダ (XEiJ拡張グラフィックス対応)
 - [PNGEX.X](https://github.com/tantanGH/pngex) ... PNG画像ローダ (XEiJ拡張グラフィックス対応)
 - [BMPEX.X](https://github.com/tantanGH/bmpex) ... BMP画像ローダ (XEiJ拡張グラフィックス対応)
