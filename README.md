@@ -16,6 +16,7 @@ X680x0/Human68k ソフトウェア (サウンド関連)
 - [UMT32PI.X](https://github.com/tantanGH/umt32pi) ... mt32-pi と GS MIDI音源の簡易操作ツール
 
 X680x0/Human68k ソフトウェア (ムービー関連)
+- [RAWMVP.X](https://github.com/tantanGH/rawmvp) ... X68000Z擬似SCSI環境向け逐次再生動画プレーヤ
 - [MCSEL.X](https://github.com/tantanGH/mcsel) ... MACS動画セレクタ兼ローダ (ハイメモリ専用, VDISK対応)
 - [MCSEX.X](https://github.com/tantanGH/mcsex) ... MACS動画ローダ (ハイメモリ専用, VDISK対応)
 
