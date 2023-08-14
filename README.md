@@ -17,6 +17,7 @@ X680x0/Human68k ソフトウェア (サウンド関連)
 
 X680x0/Human68k ソフトウェア (ムービー関連)
 - [RAWMVP.X](https://github.com/tantanGH/rawmvp) ... X68000Z擬似SCSI環境向け逐次再生動画プレーヤ
+- [BMP2RAW.X](https://github.com/tantanGH/bmp2raw-x68k) ... 連番BMPからRAWMVP.X用の動画データファイルを生成するツール
 - [MCSEL.X](https://github.com/tantanGH/mcsel) ... MACS動画セレクタ兼ローダ (ハイメモリ専用, VDISK対応)
 - [MCSEX.X](https://github.com/tantanGH/mcsex) ... MACS動画ローダ (ハイメモリ専用, VDISK対応)
 
@@ -38,6 +39,7 @@ X680x0/Human68k ソフトウェア (ツール関連)
 - [RSSN](https://github.com/tantanGH/rssn) ... RSS News Reader System (X68000Zも対応)
 - [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール
 - [RSTX.X](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール
+- [LARGECP.X](https://github.com/tantanGH/largecp) ... 大きなファイルを高速コピーするツール
 - [XDFARC.X](https://github.com/tantanGH/xdfarc) ... ファイル・ディレクトリからXDFファイルを直接作るアーカイバ
 - [XDFWRITE.X](https://github.com/tantanGH/xdfwrite) ... XDFファイルをFDに書き込むツール
 - [DIM2XDF.X](https://github.com/tantanGH/dim2xdf) ... DIM to XDF コンバータ
