@@ -37,8 +37,8 @@ X680x0/Human68k ソフトウェア (ゲーム関連)
 
 X680x0/Human68k ソフトウェア (ツール関連)
 - [RSSN](https://github.com/tantanGH/rssn) ... RSS News Reader System (X68000Zも対応)
-- [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール
-- [RSTX.X](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール
+- [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール (X68000Zも対応)
+- [RSTX.X](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール (X68000Zも対応)
 - [LARGECP.X](https://github.com/tantanGH/largecp) ... 大きなファイルを高速コピーするツール
 - [XDFARC.X](https://github.com/tantanGH/xdfarc) ... ファイル・ディレクトリからXDFファイルを直接作るアーカイバ
 - [XDFWRITE.X](https://github.com/tantanGH/xdfwrite) ... XDFファイルをFDに書き込むツール
