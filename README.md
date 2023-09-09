@@ -62,6 +62,9 @@ MicroPython for X680x0 ソフトウェア
 - [snake.py](#snakepy) ... へびさん危機一髪ゲーム
 - [ujongpy.py](#ujongpypy) ... Micro麻雀デモ
 
+Raspberry Pi ソフトウェア (ネットワーク関連)
+- [webxpressd](https://github.com/tantanGH/webxpressd) ... WebXpression のためのプリプロセッシングサービス
+
 Raspberry Pi ソフトウェア (サウンド関連)
 - [s44rasp](https://github.com/tantanGH/s44rasp) ... X68K ADPCM/PCM/WAV/MCS プレーヤ for Raspberry Pi with OLED
 - [a44enc](https://github.com/tantanGH/a44enc) ... S44/WAV to A44 コンバータ for Raspberry Pi / Linux / macOS
@@ -84,6 +87,8 @@ Python ソフトウェア (ツール関連)
 - [dim2xdf](https://github.com/tantanGH/dim2xdf/) ... X68k FDファイルイメージコンバータ in Python
 
 各種覚書
+- [X680x0実機 + Nereid を Wi-Fi LAN に接続する](https://github.com/tantanGH/nereid-wifi-connection)
+- [X680x0実機 + RS232C + Raspberry Pi PPP経由で Wi-Fi LAN に接続する](https://github.com/tantanGH/nereid-wifi-connection)
 - [Raspberry Pi で NFS Server を動かし X680x0実機 + Nereid + WiFi から NFSリモートドライブとして利用する](https://github.com/tantanGH/nereid-raspi-nfs/)
 - [Raspberry Pi と X680x0実機 + Nereid をイーサネットクロスケーブルで直結してftpでファイル送受信する](https://github.com/tantanGH/nereid-raspi-connection/)
 - [macOSユーザのためのX680x0エミュレータXEiJ活用ガイド(導入編)](https://zenn.dev/tantangh/articles/1b86b788812028)
