@@ -88,9 +88,10 @@ Python ソフトウェア (ツール関連)
 
 各種覚書
 - [X680x0実機 + Nereid を Wi-Fi LAN に接続する](https://github.com/tantanGH/nereid-wifi-connection)
-- [X680x0実機 + RS232C + Raspberry Pi PPP経由で Wi-Fi LAN に接続する](https://github.com/tantanGH/nereid-wifi-connection)
+- [X680x0実機 + RS232C/PPP + Raspberry Pi で Wi-Fi LAN に接続する](https://github.com/tantanGH/nereid-wifi-connection)
 - [Raspberry Pi で NFS Server を動かし X680x0実機 + Nereid + WiFi から NFSリモートドライブとして利用する](https://github.com/tantanGH/nereid-raspi-nfs/)
 - [Raspberry Pi と X680x0実機 + Nereid をイーサネットクロスケーブルで直結してftpでファイル送受信する](https://github.com/tantanGH/nereid-raspi-connection/)
+- [X68000版スーパーハングオンに関する覚書](https://github.com/tantanGH/sphangon-x68k)
 - [macOSユーザのためのX680x0エミュレータXEiJ活用ガイド(導入編)](https://zenn.dev/tantangh/articles/1b86b788812028)
 - [macOSユーザのためのX680x0クロス開発環境xdev68k導入ガイド](https://github.com/tantanGH/distribution/blob/main/INSTALL_xdev68k_M1Mac.md)
 - [X680x0の1.2MBフォーマット3.5インチFDをMacでイメージ化する](https://github.com/tantanGH/xdfwrite/)
