@@ -35,6 +35,7 @@ X680x0/Human68k ソフトウェア・覚書 (ゲーム関連)
 - [X68000版スーパーハングオンに関する覚書](https://github.com/tantanGH/sphangon-x68k)
 - [X68000版サンダーブレードに関する覚書](https://github.com/tantanGH/thunderblade-x68k)
 - [X680x0版スーパーリアル麻雀P2&P3に関する覚書](https://github.com/tantanGH/srm-p2p3-x68k)
+- [X68000版ふしぎの海のナディアに関する覚書](https://github.com/tantanGH/nadia-x68k)
 - [PPT Breaker](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (X68000Zも対応)
 - [Micro Reversi](https://github.com/tantanGH/ureversi) ... MicroPython版リバーシ (X68000Zも対応)
 
