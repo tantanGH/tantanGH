@@ -38,8 +38,10 @@ X680x0/Human68k ソフトウェア・覚書 (ゲーム関連)
 - [X68000版ふしぎの海のナディアに関する覚書](https://github.com/tantanGH/nadia-x68k)
 - [PPT Breaker](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (X68000Zも対応)
 - [Micro Reversi](https://github.com/tantanGH/ureversi) ... MicroPython版リバーシ (X68000Zも対応)
+- [fdxseld](https://github.com/tantanGH/fdxseld) ... FDX68向けディスクイメージセレクタ
 
 X680x0/Human68k ソフトウェア (ツール関連)
+- [USBJOY.X改](https://github.com/tantanGH/nereid-usb-zuiki-joycard) ... Nereid USBでZUIKI X68000Z JOYCARDを使う
 - [RSSN](https://github.com/tantanGH/rssn) ... RSS News Reader System (X68000Zも対応)
 - [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール (X68000Zも対応)
 - [RSTX.X](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール (X68000Zも対応)
@@ -85,6 +87,7 @@ Python ソフトウェア (グラフィックス・ムービー関連)
 - [png2grm](https://github.com/tantanGH/png2grm) ... PNG to X68k GVRAM形式データ コンバータ in Python
 
 Python ソフトウェア (ツール関連)
+- [fdxseld](https://github.com/tantanGH/fdxseld) ... FDX68向けディスクイメージセレクタ
 - [serialudp](https://github.com/tantanGH/serialudp) ... UDP/IP上でRS232C通信を行う
 - [rstx](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール in Python
 - [rsrx](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール in Python
