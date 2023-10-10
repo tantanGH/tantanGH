@@ -41,7 +41,7 @@ X680x0/Human68k ソフトウェア・覚書 (ゲーム関連)
 - [fdxseld](https://github.com/tantanGH/fdxseld) ... FDX68向けディスクイメージセレクタ
 
 X680x0/Human68k ソフトウェア (ツール関連)
-- [USBJOY.X改](https://github.com/tantanGH/nereid-usb-zuiki-joycard) ... Nereid USBでZUIKI X68000Z JOYCARDを使う
+- [USBJOY.X設定](https://github.com/tantanGH/nereid-usb-zuiki-joycard) ... Nereid USBでZUIKI X68000Z JOYCARDを使う
 - [RSSN](https://github.com/tantanGH/rssn) ... RSS News Reader System (X68000Zも対応)
 - [RSRX.X](https://github.com/tantanGH/rsrx) ... RS232Cクロス接続用ファイル受信ツール (X68000Zも対応)
 - [RSTX.X](https://github.com/tantanGH/rstx) ... RS232Cクロス接続用ファイル送信ツール (X68000Zも対応)
