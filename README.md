@@ -16,10 +16,12 @@ X680x0/Human68k ソフトウェア (サウンド関連)
 - [UMT32PI.X](https://github.com/tantanGH/umt32pi) ... mt32-pi と GS MIDI音源の簡易操作ツール
 
 X680x0/Human68k ソフトウェア (ムービー関連)
+- [HISDP.X](https://github.com/tantanGH/hisdp) ... ハイメモリ専用ISD/ISM動画プレーヤ
+- [HVDTP.X](https://github.com/tantanGH/hvdtp) ... ハイメモリ専用VDT/V16動画プレーヤ
+- [MCSEX.X](https://github.com/tantanGH/mcsex) ... ハイメモリ専用MACS動画ローダ
+- [MCSEL.X](https://github.com/tantanGH/mcsel) ... MACS/VDT/V16/ISD/ISM/RMV動画セレクタ兼ローダ
 - [RAWMVP.X](https://github.com/tantanGH/rawmvp) ... X68000Z擬似SCSI環境向け逐次再生動画プレーヤ
 - [BMP2RAW.X](https://github.com/tantanGH/bmp2raw-x68k) ... 連番BMPからRAWMVP.X用の動画データファイルを生成するツール
-- [MCSEL.X](https://github.com/tantanGH/mcsel) ... MACS動画セレクタ兼ローダ (ハイメモリ専用, VDISK対応)
-- [MCSEX.X](https://github.com/tantanGH/mcsex) ... MACS動画ローダ (ハイメモリ専用, VDISK対応)
 
 X680x0/Human68k ソフトウェア (グラフィックス関連)
 - [JPEGEX.X](https://github.com/tantanGH/jpegex) ... JPEG画像ローダ (XEiJ拡張グラフィックス対応)
