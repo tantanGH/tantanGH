@@ -6,6 +6,7 @@
 
 X680x0/Human68k ソフトウェア (サウンド関連)
 - [HMP3P.X](https://github.com/tantanGH/hmp3p) ... PhantomXハイメモリ+Mercury-UNIT専用 MP3 プレーヤー
+- [MP3SEL.X](https://github.com/tantanGH/mp3sel) ... MP3 セレクタ
 - [S44SEL.X](https://github.com/tantanGH/s44sel) ... KMD歌詞表示対応 S44/A44/WAV/PCM セレクタ
 - [S44EXP.X](https://github.com/tantanGH/s44exp) ... KMD歌詞表示対応 S44/A44/WAV/PCM プレーヤー
 - [S44BGP.X](https://github.com/tantanGH/s44bgp) ... ハイメモリ常駐型バックグラウンドPCMプレーヤー for Mercury-UNIT
