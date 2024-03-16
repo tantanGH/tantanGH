@@ -5,7 +5,8 @@
 ## 目次
 
 X680x0/Human68k ソフトウェア (サウンド関連)
-- [HMP3P.X](https://github.com/tantanGH/hmp3p) ... PhantomXハイメモリ+Mercury-UNIT専用 MP3 プレーヤー
+- [HMP3P.X](https://github.com/tantanGH/hmp3p) ... PhantomX 68030 ハイメモリ専用 MP3 プレーヤー
+- [HFLAP.X](https://github.com/tantanGH/hflap) ... PhantomX 68030 ハイメモリ専用 FLAC プレーヤー
 - [MP3SEL.X](https://github.com/tantanGH/mp3sel) ... MP3 セレクタ
 - [MP3CONV.X](https://github.com/tantanGH/mp3conv) ... MP3 to ADPCM/PCM コンバータ
 - [S44SEL.X](https://github.com/tantanGH/s44sel) ... KMD歌詞表示対応 S44/A44/WAV/PCM セレクタ
