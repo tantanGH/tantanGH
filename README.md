@@ -98,9 +98,10 @@ Python ソフトウェア (ツール関連)
 - [dim2xdf](https://github.com/tantanGH/dim2xdf/) ... X68k FDファイルイメージコンバータ in Python
 
 各種覚書
-- [PPP for X68000Z and Raspberry Pi](https://github.com/tantanGH/x68z-ppp)
+- [X680x0実機 + イーサネットじょい君 + Raspberry Pi で Wi-Fi LAN に接続する](https://github.com/tantanGH/ethernet-joy-kun-connection)
 - [X680x0実機 + Nereid を Wi-Fi LAN に接続する](https://github.com/tantanGH/nereid-wifi-connection)
 - [X680x0実機 + RS232C/PPP + Raspberry Pi で Wi-Fi LAN に接続する](https://github.com/tantanGH/nereid-wifi-connection)
+- [PPP for X68000Z and Raspberry Pi](https://github.com/tantanGH/x68z-ppp)
 - [Raspberry Pi で NFS Server を動かし X680x0実機 + Nereid + WiFi から NFSリモートドライブとして利用する](https://github.com/tantanGH/nereid-raspi-nfs/)
 - [Raspberry Pi と X680x0実機 + Nereid をイーサネットクロスケーブルで直結してftpでファイル送受信する](https://github.com/tantanGH/nereid-raspi-connection/)
 - [macOSユーザのためのX680x0エミュレータXEiJ活用ガイド(導入編)](https://zenn.dev/tantangh/articles/1b86b788812028)
