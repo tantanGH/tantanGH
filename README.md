@@ -61,6 +61,8 @@ X680x0/Human68k ソフトウェア (ツール関連)
 - [MPUTYPE.X](#mputypex) ... MPUタイプを判別して終了コードとして返すツール
 - [FONTSAVE.X](https://github.com/tantanGH/fontsave) ... 現在のフォントをフォントファイルに書き出すツール
 - [ONTIME.X](https://github.com/tantanGH/ontime) ... アプリケーションの実行時間を計測するツール
+- [MU4ON.X](https://github.com/tantanGH/mu4on) ... MercuryUNIT V4に対応していないMU用ソフトを使えるようにするツール
+- [SNTPC.X](https://github.com/tantanGH/sntpc) ... SNTPを使ってシステムクロックの時刻合わせをするツール
 
 MicroPython for X680x0 ソフトウェア
 - [Micro Reversi](https://github.com/tantanGH/ureversi) ... MicroPython版リバーシ (X68000Zも対応)
