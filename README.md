@@ -71,6 +71,7 @@ X680x0/Human68k ソフトウェア (Cライブラリ関連)
 - [libhimem](https://github.com/tantanGH/libhimem) ... HIMEM.SYSファンクションコールライブラリ
 - [libpcm8a](https://github.com/tantanGH/libpcm8a) ... PCM8Aファンクションコールライブラリ
 - [libpcm8pp](https://github.com/tantanGH/libpcm8pp) ... PCM8PPファンクションコールライブラリ
+- [libmxdrv](https://github.com/tantanGH/libmxdrv) ... MXDRVファンクションコールライブラリ
 
 MicroPython for X680x0 ソフトウェア
 - [Micro Reversi](https://github.com/tantanGH/ureversi) ... MicroPython版リバーシ (X68000Zも対応)
