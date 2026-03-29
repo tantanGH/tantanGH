@@ -68,6 +68,7 @@ X680x0/Human68k ソフトウェア (Cライブラリ関連)
 - [libj](https://github.com/tantanGH/libj) ... XC互換日本語処理関数ライブラリ
 - [libutf8](https://github.com/tantanGH/libutf8) ... UTF-8 to CP932 文字列変換ライブラリ
 - [libutf16](https://github.com/tantanGH/libutf16) ... UTF-16 to CP932 文字列変換ライブラリ
+- [libhimem](https://github.com/tantanGH/libhimem) ... HIMEM.SYSファンクションコールライブラリ
 - [libpcm8a](https://github.com/tantanGH/libpcm8a) ... PCM8Aファンクションコールライブラリ
 - [libpcm8pp](https://github.com/tantanGH/libpcm8pp) ... PCM8PPファンクションコールライブラリ
 
