@@ -63,7 +63,13 @@ X680x0/Human68k ソフトウェア (ツール関連)
 - [ONTIME.X](https://github.com/tantanGH/ontime) ... アプリケーションの実行時間を計測するツール
 - [MU4ON.X](https://github.com/tantanGH/mu4on) ... Mercury-UNIT V4有効化ユーティリティ
 - [SNTPC.X](https://github.com/tantanGH/sntpc) ... SNTPを使ってシステムクロックの時刻合わせをするツール
+
+X680x0/Human68k ソフトウェア (Cライブラリ関連)
 - [libj](https://github.com/tantanGH/libj) ... XC互換日本語処理関数ライブラリ
+- [libutf8](https://github.com/tantanGH/libutf8) ... UTF-8 to CP932 文字列変換ライブラリ
+- [libutf16](https://github.com/tantanGH/libutf16) ... UTF-16 to CP932 文字列変換ライブラリ
+- [libpcm8a](https://github.com/tantanGH/libpcm8a) ... PCM8Aファンクションコールライブラリ
+- [libpcm8pp](https://github.com/tantanGH/libpcm8pp) ... PCM8PPファンクションコールライブラリ
 
 MicroPython for X680x0 ソフトウェア
 - [Micro Reversi](https://github.com/tantanGH/ureversi) ... MicroPython版リバーシ (X68000Zも対応)
