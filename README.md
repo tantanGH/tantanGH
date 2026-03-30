@@ -73,6 +73,7 @@ X680x0/Human68k ソフトウェア (Cライブラリ関連)
 - [libpcm8pp](https://github.com/tantanGH/libpcm8pp) ... PCM8PPファンクションコールライブラリ
 - [libmxdrv](https://github.com/tantanGH/libmxdrv) ... MXDRVファンクションコールライブラリ
 - [libmad-x68k](https://github.com/tantanGH/libmad-x68k) ... MP3デコードライブラリ
+- [libfoxenflac-x68k](https://github.com/tantanGH/libfoxenflac-x68k) ... FLACデコードライブラリ
 - [libjpeg](https://github.com/tantanGH/libjpeg) ... JPEGデコードライブラリ
 
 MicroPython for X680x0 ソフトウェア
