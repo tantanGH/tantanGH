@@ -75,6 +75,7 @@ X680x0/Human68k ソフトウェア (Cライブラリ関連)
 - [libpcm8a](https://github.com/tantanGH/libpcm8a) ... PCM8Aファンクションコールライブラリ
 - [libpcm8pp](https://github.com/tantanGH/libpcm8pp) ... PCM8PPファンクションコールライブラリ
 - [libmxdrv](https://github.com/tantanGH/libmxdrv) ... MXDRVファンクションコールライブラリ
+- [libzmusic2](https://github.com/tantanGH/libzmusic2) ... ZMUSIC V2ファンクションコールライブラリ
 - [libajoy](https://github.com/tantanGH/libajoy) ... AJOY.Xファンクションコールライブラリ
 - [libjpeg](https://github.com/tantanGH/libjpeg) ... JPEGデコードライブラリ
 - [libmad-x68k](https://github.com/tantanGH/libmad-x68k) ... MP3デコードライブラリ
