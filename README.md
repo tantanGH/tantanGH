@@ -37,7 +37,7 @@ X680x0/Human68k ソフトウェア (グラフィックス関連)
 
 X680x0/Human68k ソフトウェア・覚書 (ゲーム関連)
 - [SANDBOX.X](https://github.com/tantanGH/sandbox) ... 砂テトリス風落ちものゲーム (060turbo/PhantomX専用)
-- [MUTE LAND](https://github.com/tantanGH/mtland) ... 高速3Dドリフトシミュレーター (060turbo/PhantomX専用・サイバースティック対応)
+- [MUTE LAND](https://github.com/tantanGH/mtland) ... 高速3Dドリフトシミュレーター (060turbo/PhantomX専用・MIDI/サイバースティック対応)
 - [Pocket Circuit](https://github.com/tantanGH/pocket-circuit) ... 真上視点のドリフトラジコン風カーゲーム (サイバースティック対応)
 - [PPT Breaker](https://github.com/tantanGH/pptbreak) ... ブロック崩しもどきゲーム (X68000Zも対応)
 - [Micro Reversi](https://github.com/tantanGH/ureversi) ... MicroPython版リバーシ (X68000Zも対応)
