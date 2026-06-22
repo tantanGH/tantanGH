@@ -79,6 +79,7 @@ X680x0/Human68k ソフトウェア (Cライブラリ関連)
 - [libzmusic2](https://github.com/tantanGH/libzmusic2) ... ZMUSIC V2ファンクションコールライブラリ
 - [libajoy](https://github.com/tantanGH/libajoy) ... AJOY.Xファンクションコールライブラリ
 - [libjpeg](https://github.com/tantanGH/libjpeg) ... JPEGデコードライブラリ
+- [liba44](https://github.com/tantanGH/liba44) ... A44エンコード・デコードライブラリ
 - [libmad-x68k](https://github.com/tantanGH/libmad-x68k) ... MP3デコードライブラリ
 - [libfoxenflac-x68k](https://github.com/tantanGH/libfoxenflac-x68k) ... FLACデコードライブラリ
 
